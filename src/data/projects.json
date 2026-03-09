@@ -1,0 +1,432 @@
+[
+  {
+    "title": "jackbutcher.md",
+    "year": "2026",
+    "slug": "jackbutcher-md",
+    "image": "https://opengraph.githubassets.com/1/visualizevalue/jackbutcher.md",
+    "summary": "50,000 tweets. One file. Every pattern extracted.",
+    "description": "6 years of writing. 50,796 tweets scanned. Filtered to the 13,962 that performed. Reverse-engineered into the rules, constraints, and word-level mechanics that made them work.\n\nNot a style guide. A system file. Drop it into any AI and generate content in this voice.\n\nMedian length: 9 words. 57% under 10 words. 78% single sentence. Shorter tweets get more engagement. \"You\" appears in 30% of tweets, \"I\" in 7%, \"we\" never.\n\n6 rhetorical moves extracted: contrast pairs, reframes, math, uncomfortable truths, compressed wisdom, and deadpan humor through understatement. 12 contrast frames mapped. 11 word-level mechanics identified — from alliterative contrast to monosyllabic endings.\n\nThe file isn't the moat. The person is.",
+    "collaborators": [],
+    "edition": null,
+    "medium": "Open Source",
+    "links": [
+      {
+        "label": "GitHub",
+        "href": "https://github.com/visualizevalue/jackbutcher.md"
+      },
+      {
+        "label": "Announcement",
+        "href": "https://x.com/jackbutcher/status/2030342223515079104"
+      }
+    ]
+  },
+  {
+    "title": "Self Checkout",
+    "year": "2025",
+    "slug": "self-checkout",
+    "image": "https://receipts.vv.xyz/images/self-checkout-installation.png",
+    "summary": "Pay-what-you-want installation at Art Basel Miami Beach. 5,837 receipts. $114,706 in profit.",
+    "description": "A participatory installation at Art Basel Miami Beach 2025 in the Zero 10 sector. Three self-checkout kiosks and an online portal let visitors pay whatever they want — starting at $1 — for a printed receipt. The receipt is the artwork.\n\nEach dollar prints as a separate line item, so the more you pay, the longer your receipt. A seed phrase printed on each receipt unlocks a non-transferable NFT on Ethereum, literalizing the critique that NFT buyers purchase \"just receipts.\"\n\nA split-flap kinetic display started at -$74,211 — the exact, itemized cost of the booth, fabrication, shipping, equipment, labor, and travel — and updated in real-time with each contribution. Transparency as both mechanism and critique.\n\n5,837 receipts were collected across onchain, online, and in-person interactions, averaging $11.41 each, totalling $188,917 in revenue and $114,706 in net profit. The complete installation was sold to X-Museum, Beijing, China.\n\nThe entire system — payment processing, kiosk software, receipt printing, and smart contracts — is open source.",
+    "collaborators": [
+      "Jalil Wahdatehagh"
+    ],
+    "edition": "5,837 Receipts",
+    "medium": "Thermal Print, Ethereum",
+    "links": [
+      {
+        "label": "Receipts",
+        "href": "https://receipts.vv.xyz"
+      },
+      {
+        "label": "Whitepaper",
+        "href": "https://receipts.vv.xyz/whitepaper"
+      },
+      {
+        "label": "GitHub",
+        "href": "https://github.com/visualizevalue/self-checkout"
+      },
+      {
+        "label": "Artnet",
+        "href": "https://news.artnet.com/market/jack-butcher-self-checkout-abmb-2724016"
+      }
+    ]
+  },
+  {
+    "title": "Gas Wars",
+    "year": "2025",
+    "slug": "gas-wars",
+    "image": "https://images.squarespace-cdn.com/content/v1/6547fdfa39dde777e76d89b5/1757996631587-OYA0A4P6I87XH00VGLA2/gw.png",
+    "summary": "Networked generative artwork inspired by survivorship bias. 500 combat simulations on Art Blocks.",
+    "description": "\"Destruction contains more information than survival.\"\n\nGas Wars is a networked generative artwork drawing inspiration from Survivorship Bias, a concept popularized during WWII by statistician Abraham Wald. Wald's research identified that bullet holes on returning aircraft indicated where planes could endure damage — not necessarily where protection was needed. The aircraft that didn't return provided the most critical data.\n\nThe work creates 500 combat simulations, each priced to represent the cost per bullet fired. Early, cheaper simulations fire fewer bullets with better survival chances. Expensive later simulations face hundreds of bullets, generating richer vulnerability data despite lower survival probability.\n\nThe algorithm generates aircraft that emerge damaged, destroyed, or absent entirely. Collectors face a paradox: racing toward perceived safety while information-rich tokens with poor survival odds remain unclaimed.",
+    "collaborators": [
+      "Jalil Wahdatehagh",
+      "Art Blocks"
+    ],
+    "edition": "500",
+    "medium": "Generative, Ethereum",
+    "links": [
+      {
+        "label": "Browse",
+        "href": "https://gaswars.vv.xyz/"
+      },
+      {
+        "label": "Collect",
+        "href": "https://opensea.io/collection/gas-wars-by-jack-butcher/activity"
+      }
+    ]
+  },
+  {
+    "title": "Lemonade Stand",
+    "year": "2025",
+    "slug": "lemonade-stand",
+    "image": "https://images.squarespace-cdn.com/content/v1/6547fdfa39dde777e76d89b5/1755451350512-6N2QHX02B5AM7EHTM2IY/pbt-thumb.png",
+    "summary": "Nine content coins exploring permissionless markets through lemonade stand imagery.",
+    "description": "\"When life gives you liquidity, make lemonade.\"\n\nAn accidental token launch tied to Visualize Value became the genesis for a nine-piece art project exploring the intersection of permissionless markets, digital art, and childhood entrepreneurship aesthetics.\n\nNine content coins paired with retro advertising posters, each with billion-token supplies ensuring maximum liquidity. The project uses lemonade stand imagery as metaphor for how blockchain infrastructure creates markets before meaning exists, examining whether accessibility and network effects can drive cultural value in digital environments.\n\nUnlike traditional art where a single high-value piece excludes most potential collectors, these artworks use infinite divisibility to allow participation at any price point. Trading activity becomes part of the artistic material.",
+    "collaborators": [],
+    "edition": "9 Content Coins + 1 Creator Coin",
+    "medium": "Tokens, Zora",
+    "links": [
+      {
+        "label": "Collect",
+        "href": "https://zora.co/@visualizevalue"
+      }
+    ]
+  },
+  {
+    "title": "Full Set",
+    "year": "2025",
+    "slug": "full-set",
+    "image": "https://images.squarespace-cdn.com/content/v1/6547fdfa39dde777e76d89b5/1737348451051-J8FGEY2AZNQTBMQAGJ6E/thumb.png",
+    "summary": "27 networked editions with a consensus trigger that permanently transformed the collection.",
+    "description": "A networked artwork examining the tension between democratization and artistic value in digital art. The work comprises 27 distinct pieces that function both as individual commentaries and as nodes in a larger visual system represented through a 3x9 grid.\n\nThe project engages with Rodeo's distribution model — 24-hour open editions at $0.30 each. Initially separate artworks, the pieces were reimagined as interconnected nodes after discovering token image mutability, creating a meta-commentary on platform dynamics and collective value creation.\n\nToken #27 contains a consensus trigger: if it surpasses 159,300 editions in 24 hours (matching the total supply of the other 26 pieces combined), the entire collection permanently transforms to its network state. The threshold was successfully surpassed; the collection has been permanently transformed.",
+    "collaborators": [
+      "Rodeo"
+    ],
+    "edition": "27 Editions, 270 Maximum Complete Sets",
+    "medium": "Ethereum L2",
+    "links": [
+      {
+        "label": "Collect",
+        "href": "https://opensea.io/collection/full-set-by-jack-butcher"
+      }
+    ]
+  },
+  {
+    "title": "Hardware",
+    "year": "2025",
+    "slug": "hardware-2025",
+    "image": "https://images.squarespace-cdn.com/content/v1/6547fdfa39dde777e76d89b5/1737347418399-GG7TYMUIDKORJI82YK6S/thumb.png",
+    "summary": "Provenance and authenticity examined through Damien Hirst's backdating practice.",
+    "description": "The work examines artistic provenance and authenticity, engaging with Damien Hirst's practice of backdating artworks — \"a ludicrous premise to most, and also an incredible insight into the subjectivity of value.\"\n\nThree black checks mirror Hirst's controversial display pieces. The title uses 1988 (the artist's birth year), extending Hirst's backdating concept to its logical extreme. Hyper-realistic digital renderings of archival materials including plastic wrapping, authentication labels, and institutional framing.\n\nThe work suggests blockchain technology may provide more reliable provenance verification than traditional institutional methods, while simultaneously questioning assumptions about authenticity and value in digital spaces.",
+    "collaborators": [
+      "Highlight"
+    ],
+    "edition": "544",
+    "medium": "Ethereum",
+    "links": [
+      {
+        "label": "Collect",
+        "href": "https://highlight.xyz/mint/ethereum:0x0c3dd3c403b6B5c0CCe2a97F15820a4Eae347FE7"
+      }
+    ]
+  },
+  {
+    "title": "The Book of Elon Musk",
+    "year": "2025",
+    "slug": "book-of-elon",
+    "image": "https://images.squarespace-cdn.com/content/v1/645147d4fecf8e0b8e918049/b3a36668-9a4c-4e30-9de8-9ca3a8173e45/book_of_elon-cover-facebook+%281%29.jpg",
+    "summary": "Illustrations for The Book of Elon Musk by Eric Jorgenson.",
+    "description": "Illustrations for The Book of Elon Musk: A Guide to Purpose and Success by Eric Jorgenson. The third collaboration between Butcher and Jorgenson, following the Almanack of Naval Ravikant and the Anthology of Balaji.\n\nThe book curates two decades of Elon Musk's wisdom drawn from transcripts, tweets, and interviews. Naval Ravikant called it \"the only book an entrepreneur needs.\"",
+    "collaborators": [],
+    "edition": null,
+    "medium": "Illustration",
+    "links": [
+      {
+        "label": "Read",
+        "href": "https://elonmuskbook.org"
+      }
+    ]
+  },
+  {
+    "title": "Work",
+    "year": "2024",
+    "slug": "work-2024",
+    "image": "https://images.squarespace-cdn.com/content/v1/6547fdfa39dde777e76d89b5/1738272465127-9ANCIP811BN8SZX8PAM5/workthumb.png",
+    "summary": "Silver sculpture combining a 750-year-old Assay ledger with the Ethereum blockchain.",
+    "description": "A historic sculptural piece combining a 750-year-old British Assay ledger with the Ethereum blockchain. The work represents the first official hallmarks granted by the Assay Office to artist Jack Butcher.\n\nHandcrafted entirely by Asprey Studio, this silver sculpture required two years of development and over six months of completion. The piece was conceived by Jack Butcher and co-produced with Martin Klipp of Beyond Art Creative.\n\nExhibited at Art Basel Miami, 2024. Available by application only through Asprey Studio.",
+    "collaborators": [
+      "Asprey of London",
+      "Martin Klipp / Beyond Art Creative"
+    ],
+    "edition": "1/1",
+    "medium": "Ethereum ERC-721, Solid Silver Sculpture, Hallmarked by Assay Office of London",
+    "links": []
+  },
+  {
+    "title": "Latent",
+    "year": "2024",
+    "slug": "latent",
+    "image": "https://images.squarespace-cdn.com/content/v1/6547fdfa39dde777e76d89b5/1730251865841-JNOKA412SI2137ESHJVM/latent.png",
+    "summary": "80 AI-generated digital negatives translated into silver gelatin prints. Shown at Paris Photo.",
+    "description": "An exploration merging AI-generated imagery with traditional photography. The project comprises 80 unique works treating digital negatives as primary artifacts, then translating them into physical silver gelatin prints using analog darkroom techniques.\n\nThe artist treats the neural network's latent space — a high-dimensional representation of visual possibilities — as the subject of inquiry, with the model navigating this space through text prompts to synthesize thousands of outputs.\n\nExhibited at Paris Photo (November 7-10, 2024), marking the 100th anniversary of the Surrealist movement in Paris. Gary Powell of The Libertines created an original composition titled \"Sonic Duality\" specifically for the exhibition.",
+    "collaborators": [
+      "PICTO",
+      "LaCollection",
+      "Beyond Art Creative",
+      "Gary Powell"
+    ],
+    "edition": "1/1/80 Pairs",
+    "medium": "Digital Negatives (Ethereum), Silver Gelatin Prints (B&W Baryte Paper, Ilford 310g)",
+    "links": [
+      {
+        "label": "Enquire",
+        "href": "mailto:marlene.corbun@lacollection.io"
+      }
+    ]
+  },
+  {
+    "title": "1 of 1 of ?",
+    "year": "2024",
+    "slug": "supply",
+    "image": "https://images.squarespace-cdn.com/content/v1/6547fdfa39dde777e76d89b5/1717469192803-L427F6J7HGHFUAQBRQC4/bills.png",
+    "summary": "The paradox of artificial scarcity. Sold as both a unique work and 35,262 open editions.",
+    "description": "An experimental artwork exploring the paradox of artificial scarcity on abundant mediums, the transformation of fungible to non-fungible, and the ever-expanding gap between the value of labor and leverage.\n\nThe same piece was sold simultaneously as both a unique work and an open edition, challenging traditional scarcity models. 35,262 open editions minted. The accompanying work 'Proof of Work' is a hand-signed ink on Tyvek, signed 35,262 times — once per open edition minted.",
+    "collaborators": [
+      "Sotheby's",
+      "Gamma"
+    ],
+    "edition": "1/1 + 35,262 Open Editions",
+    "medium": "Bitcoin Ordinal, Ink on Tyvek",
+    "links": []
+  },
+  {
+    "title": "Opepen Edition",
+    "year": "2023–",
+    "slug": "opepen-edition",
+    "image": "https://images.squarespace-cdn.com/content/v1/6547fdfa39dde777e76d89b5/1714405996261-NRZXYKKWYKB62TFLGMWZ/Frame+8.png",
+    "summary": "Open-source art protocol. 16,000 tokens evolving through community consensus.",
+    "description": "An open-source art protocol functioning as an early manifestation of a digital museum that decentralizes both contribution and curation. The collection evolves through 80 canvases simultaneously via community creation and collector consensus.\n\n\"Consensus is temporary.\"\n\n16,000 tokens documenting cultural and digital paradigm shifts in real-time, responding to developments in consensus mechanisms, permissionless coordination, markets, and image commodification.",
+    "collaborators": [
+      "Jalil Wahdatehagh",
+      "Traf",
+      "Artists",
+      "Curators"
+    ],
+    "edition": "16,000",
+    "medium": "Ethereum",
+    "links": [
+      {
+        "label": "Curate",
+        "href": "https://opepen.art"
+      },
+      {
+        "label": "Collect",
+        "href": "https://opensea.io/collection/opepen-edition"
+      }
+    ]
+  },
+  {
+    "title": "Checks",
+    "year": "2023",
+    "slug": "checks-originals",
+    "image": "https://images.squarespace-cdn.com/content/v1/6547fdfa39dde777e76d89b5/1714407813894-UN7TT41AG7F0LP6QU1K1/Frame+4.png",
+    "summary": "Onchain, composable, collector-curated. 16,031 editions. This artwork may or may not be notable.",
+    "description": "An onchain, composable, collector-curated commentary examining the inversion of status, institutions and notability in the age of the internet.\n\n\"This artwork may or may not be notable.\"\n\n16,031 pieces minted during a 24-hour open edition in February 2023 at $8 each. Total secondary volume has exceeded $250 million across editions and originals.\n\nA migration protocol converts editions to originals, removing artist control and storing them trustlessly on Ethereum. Collectors can burn multiple originals to composite them into rarer pieces with fewer checks. 10,691 converted to originals or composited; 5,340 editions remain unmigrated. The Black Check — a rare composite requiring 4,096 original editions — only three are mathematically possible.\n\nThe project spawned an entire ecosystem: derivative collections, physical merchandise, gallery exhibitions, and a cultural movement around the check symbol. Checks Elements, a series of 152 monoprint and token pairs, was auctioned at Christie's during Frieze New York.",
+    "collaborators": [
+      "Jalil Wahdatehagh"
+    ],
+    "edition": "16,031",
+    "medium": "Onchain SVG, Ethereum",
+    "links": [
+      {
+        "label": "Editions",
+        "href": "https://opensea.io/collection/vv-checks"
+      },
+      {
+        "label": "Originals",
+        "href": "https://opensea.io/collection/vv-checks-originals"
+      },
+      {
+        "label": "Explore",
+        "href": "https://explore.checks.art"
+      }
+    ]
+  },
+  {
+    "title": "Trademark",
+    "year": "2023",
+    "slug": "trademark",
+    "image": "https://images.squarespace-cdn.com/content/v1/6547fdfa39dde777e76d89b5/1714405961212-QRE29F4EJ1ZKRLQOTHPZ/Frame+6.png",
+    "summary": "Generative art built entirely from the ® symbol. Created with ChatGPT 3.5.",
+    "description": "A generative art collection deployed on Art Blocks Engine, created entirely using ChatGPT 3.5 in October 2023. The work explores and critiques trademark ownership and intellectual property consensus mechanisms, examining how these systems extend to digital objects and intangible asset ownership.\n\nExclusively constructed from the ® (registered trademark) symbol.",
+    "collaborators": [
+      "Red Bull Racing",
+      "Art on Internet"
+    ],
+    "edition": "1/1/10,000",
+    "medium": "Generative, Ethereum (Art Blocks)",
+    "links": [
+      {
+        "label": "Collect",
+        "href": "https://opensea.io/collection/trademark-by-jack-butcher"
+      },
+      {
+        "label": "Art on Internet",
+        "href": "https://aoi.com/jackbutcher"
+      }
+    ]
+  },
+  {
+    "title": "The Anthology of Balaji",
+    "year": "2023",
+    "slug": "anthology-of-balaji",
+    "image": "https://images.squarespace-cdn.com/content/v1/61eb4faf27e4d556c9edacc5/aa2381a6-22ab-431f-986f-542e12173d51/EricJorgenson_EbookCover_Final.jpg",
+    "summary": "Illustrations for The Anthology of Balaji by Eric Jorgenson.",
+    "description": "Illustrations for The Anthology of Balaji: A Guide to Technology, Truth, and Building the Future by Eric Jorgenson. The second collaboration between Butcher and Jorgenson.\n\nThe book compiles insights from Balaji Srinivasan's tweets, podcasts, and essays — organized across technology, truth, and building the future. Marc Andreessen called Balaji's \"good idea output rate\" the highest of anyone he knows.",
+    "collaborators": [],
+    "edition": null,
+    "medium": "Illustration",
+    "links": [
+      {
+        "label": "Read",
+        "href": "https://balajianthology.com"
+      }
+    ]
+  },
+  {
+    "title": "Oviators",
+    "year": "2023",
+    "slug": "oviators",
+    "image": "https://images.squarespace-cdn.com/content/v1/6547fdfa39dde777e76d89b5/1714411079411-NWRH6IBF3HTSQQIFTMX8/serials.png",
+    "summary": "Limited-edition collectible eyewear. Debuted at Art Basel Miami.",
+    "description": "A limited-edition collectible eyewear collaboration between Salvino Armati and Jack Butcher, initially displayed at a Wynwood exhibition space during Miami's Art Basel weekend.\n\nThe pieces were available for purchase over a 72-hour window beginning December 8th at 11 AM EST, with final supply determined by demand during that period. Physical redemptions opened in Q1 2024, allowing token holders to burn their NFTs for actual eyewear with curated product options.\n\nEach pair includes uniquely generated artwork and links to an NFT recording provenance and ownership history.",
+    "collaborators": [
+      "Salvino Armati"
+    ],
+    "edition": null,
+    "medium": "Eyewear, Ethereum",
+    "links": []
+  },
+  {
+    "title": "Signature",
+    "year": "2023",
+    "slug": "signature",
+    "image": "https://images.squarespace-cdn.com/content/v1/6547fdfa39dde777e76d89b5/1714408927534-5K9C49OVZR76DPOCW19J/signaa.png",
+    "summary": "The victory burnout, rendered as generative art. 200 pieces with Red Bull Racing.",
+    "description": "A digital art collection honoring the singular, defining moment of triumph in motorsport — the victory burnout. Developed entirely with ChatGPT 3.5 in October 2023.",
+    "collaborators": [
+      "Red Bull Racing",
+      "Art on Internet"
+    ],
+    "edition": "200",
+    "medium": "Ethereum",
+    "links": [
+      {
+        "label": "Art on Internet",
+        "href": "https://aoi.com/jackbutcher"
+      }
+    ]
+  },
+  {
+    "title": "Checks Elements",
+    "year": "2023",
+    "slug": "checks-elements",
+    "image": "https://images.squarespace-cdn.com/content/v1/6547fdfa39dde777e76d89b5/1714411583249-HVVGJ1H276EYVVRAYADR/elmm.png",
+    "summary": "152 monoprint and token pairs exploring elemental consensus. Auctioned at Christie's.",
+    "description": "An edition exploring the earliest example of distributed consensus: the classification of fire, earth, air and water. Conceived and co-published with Jean Milant of Cirrus Editions in Los Angeles, the work was auctioned at Christie's during Frieze New York in 2023.",
+    "collaborators": [
+      "Cirrus",
+      "Jalil Wahdatehagh",
+      "Traf",
+      "Martin Klipp",
+      "Christie's"
+    ],
+    "edition": "152 Monoprint & Token Pairs",
+    "medium": "32\" x 40\" Monoprints, Ethereum",
+    "links": []
+  },
+  {
+    "title": "VV Rare",
+    "year": "2021–",
+    "slug": "vv-rare",
+    "image": "https://images.squarespace-cdn.com/content/v1/6547fdfa39dde777e76d89b5/1714407797510-DL9XRGPAWF89L3SOYJGJ/Frame+13.png",
+    "summary": "1 of 1 CryptoArt on Ethereum recording paradigm shifts in digital media.",
+    "description": "A collection of 1 of 1 CryptoArt pieces on Ethereum, responding to and recording paradigm shifts in digital media, permissionless markets and decentralized coordination. Minted and sold via Foundation from March 2021 onward.",
+    "collaborators": [],
+    "edition": "1/1 (each)",
+    "medium": "Ethereum",
+    "links": [
+      {
+        "label": "Collect",
+        "href": "https://foundation.app/@visualizevalue"
+      }
+    ]
+  },
+  {
+    "title": "VV Editions",
+    "year": "2021",
+    "slug": "vv-editions",
+    "image": "https://images.squarespace-cdn.com/content/v1/6547fdfa39dde777e76d89b5/1714406135810-00M50V6EEB09CV8ZLISE/Frame+1.png",
+    "summary": "Digital editions ranging from limited runs of 50 to infinite supply.",
+    "description": "A collection of digital artworks featuring various editions with differing scarcity levels, ranging from limited numbered editions to infinite editions.\n\nEpiphany (Edition of 50), Duplicate (Edition of 69), Hierarchy (Edition of 100), Merge VV, 100 Meals (Infinite Edition), Don't Trust, Check. (Edition of 360), Signed (Edition of 50), Humanity Check (Infinite Edition).",
+    "collaborators": [],
+    "edition": null,
+    "medium": "Ethereum",
+    "links": []
+  },
+  {
+    "title": "Navalmanack",
+    "year": "2021",
+    "slug": "the-almanack-of-naval-ravikant",
+    "image": "https://images.squarespace-cdn.com/content/v1/6547fdfa39dde777e76d89b5/1716003110543-K3TQXMEMIMCC2A7DR087/thum-nav.png",
+    "summary": "Illustrations for the bestselling Almanack of Naval Ravikant.",
+    "description": "Illustrations for the bestselling Almanack of Naval Ravikant. The project began after engaging with Naval Ravikant's popular Twitter thread on wealth-building principles in 2019. Over several years, these principles were integrated into practice, which led to the opportunity to illustrate the book in early 2021.",
+    "collaborators": [],
+    "edition": null,
+    "medium": "Illustration",
+    "links": [
+      {
+        "label": "Read",
+        "href": "https://navalmanack.com"
+      }
+    ]
+  },
+  {
+    "title": "The Daily Manifest",
+    "year": "2020",
+    "slug": "daily-manifest",
+    "image": "https://cdn.shopify.com/s/files/1/0050/6160/7512/products/Overall_1500x1500_1e6e284a-af84-4b7e-9b84-77465de7cc40.jpg?v=1663188734",
+    "summary": "The first VV product. A single-page system for planning your day and auditing your time.",
+    "description": "The very first product to come out of Visualize Value. A single-page printable system that combines daily planning, habit tracking, and time auditing into one format.\n\nA distillation of the best ideas from habit tracking apps, journal formats, and coaching frameworks — reduced to a page. Track what you spend time on after the fact rather than planning in advance.\n\n10% of people who use it for free end up buying something else. The Daily Manifest became the proof of concept for the entire VV business model: build something useful, give it away, let it sell everything else.",
+    "collaborators": [],
+    "edition": null,
+    "medium": "Printable PDF",
+    "links": [
+      {
+        "label": "Get it",
+        "href": "https://visualizevalue.com/products/daily-manifest"
+      }
+    ]
+  },
+  {
+    "title": "Visualize Value",
+    "year": "2019–",
+    "slug": "visualize-value",
+    "image": "https://images.squarespace-cdn.com/content/v1/6547fdfa39dde777e76d89b5/1714406079662-NJE81LRYBJ9S6GUUIJI2/Frame+5.png",
+    "summary": "A daily practice of distilling ideas through visual constraints. ~1,000 original pieces.",
+    "description": "Visualize Value began as a daily, public practice of distilling ideas using a specific set of visual constraints. Published on Instagram and Twitter starting January 2019, the project comprises approximately 1,000 original pieces.",
+    "collaborators": [],
+    "edition": null,
+    "medium": null,
+    "links": [
+      {
+        "label": "Instagram",
+        "href": "https://instagram.com/visualizevalue"
+      },
+      {
+        "label": "X",
+        "href": "https://twitter.com/visualizevalue"
+      }
+    ]
+  }
+]

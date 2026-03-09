@@ -1,6 +1,6 @@
 {
   "name": "openclavv",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "VV knowledge layer for AI agents — MCP server exposing Visualize Value frameworks, voice, and content",
   "type": "module",
   "main": "dist/server.js",

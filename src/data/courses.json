@@ -1,94 +1,1088 @@
 {
-  "the-permissionless-apprentice": {
-    "title": "The Permissionless Apprentice",
-    "tagline": "A step-by-step playbook for building traction online — used by 12,700+ entrepreneurs to start businesses, raise capital, win clients, and get promoted.",
-    "enrollment": "12,700+",
-    "modules": [
-      {
-        "title": "Philosophy",
-        "lessons": ["Arbitrage", "The Internet is Big", "What is a Permissionless Apprentice?", "Portfolios over Posturing"]
-      },
-      {
-        "title": "Strategy",
-        "lessons": ["Positive-sum Learning", "Take the Work Off", "Project Mentality", "Open Networks"]
-      },
-      {
-        "title": "Execution",
-        "lessons": ["Cold Emails", "Frictionless Value", "Overdelivering", "Building in Public"]
-      },
-      {
-        "title": "Mastery",
-        "lessons": ["Failsafe", "Diversification through Concentration", "Good Faith", "Shuhari", "Probabilities over Expectations"]
-      },
-      {
-        "title": "Case Studies",
-        "lessons": ["Igor / Atomic Search", "Nina Mufleh / Airbnb"]
-      }
-    ]
-  },
-  "build-once-sell-twice": {
-    "title": "Build Once, Sell Twice — The Productization Playbook",
-    "tagline": "The system behind Visualize Value's path from one-person studio to 7-figure product business — built for anyone with specialized knowledge and the willingness to share it.",
-    "enrollment": "5,300+",
-    "modules": [
-      {
-        "title": "The Goal",
-        "lessons": ["Build Once, Sell Twice", "The VV Story", "Engineering Freedom", "Executive Summary"]
-      },
-      {
-        "title": "The Game",
-        "lessons": ["Build Mindset", "Build Skill", "Build Process", "Build Reputation", "Build Product", "Build Authority"]
-      },
-      {
-        "title": "The Rules",
-        "lessons": ["Reputation, Reciprocity & Equity", "Ownership x Time = Freedom", "Value Creation", "Leverage", "Compounding", "Failure", "Content", "Service & Productized Service", "Product", "Proof of Work", "Divorcing Time & Money", "Curiosity Drives Competence"]
-      },
-      {
-        "title": "The Plays (Building)",
-        "lessons": ["Speak in Problems, Solve in Products", "Rapid Ideation", "Trust Profile", "The Permissionless Apprenticeship", "Content Leverage", "Story Arbitrage", "Tech Stack Tour", "Platform Periodization", "Structuring a Curriculum", "Curriculum as Content", "Interrupting Patterns"]
-      },
-      {
-        "title": "The Plays (Selling)",
-        "lessons": ["Selling Sawdust", "Selling to Sellers", "Organic Hype", "The Proof & Price Loop", "Justifying Your Prices"]
-      }
-    ]
-  },
   "how-to-visualize-value": {
     "title": "How to Visualize Value",
-    "tagline": "Learn to turn ideas into visuals that cut through the noise — whether you're starting from zero or sharpening an existing skill.",
-    "enrollment": "5,900+",
+    "description": "",
+    "free": true,
     "modules": [
       {
         "title": "Context Setting",
-        "lessons": ["Introduction", "What is Design For?", "Leveraging the Invisible", "Visualize Your Value"]
+        "lessons": [
+          {
+            "id": 1,
+            "title": "What is Design For?",
+            "body": "What we believe in at Visualize Value: We're not here to make things for the sake of making things. We're here to make things for the sake of making things better . Because good design makes things easier. How can you make information more readable, more attractive, more memorable? By organizing information visually.",
+            "video_url": null
+          },
+          {
+            "id": 2,
+            "title": "Leveraging the Invisible",
+            "body": "\"The world rewards the people who are best at communicating ideas, not the people with the best ideas.\" — David Perell Today, 80% of the value of the S&P 500 is comprised of intangible assets. We also know that 70% of people consider themselves visual learners. If you're reading this, chances are there is a component of what you do that operates in much the same way. So much of the value we produce today is in how we think. Visual communication, when leveraged well, creates a massive advantage. This workshop has been developed to hone your ability to communicate visually, helping you create a deeper connection with a wider audience.",
+            "video_url": null
+          },
+          {
+            "id": 3,
+            "title": "Visualizing Your Value",
+            "body": "The focus of this workshop is to help you gain an edge by better articulating your ideas, and the ideas you value. From the theory behind articulating concepts visually to the nuances of the visual design discipline. The outcome we want for you at the end of this course is the confidence and the information to begin experimenting with design as a tool to communicate more clearly.",
+            "video_url": null
+          }
+        ]
       },
       {
         "title": "Why Visuals Work",
-        "lessons": ["Making Ideas Visual", "Just Run", "Pattern Recognition", "This is Your Brain on Images", "Shared Symbols"]
+        "lessons": [
+          {
+            "id": 4,
+            "title": "Making Ideas Visual with David Perell",
+            "body": "I sat down with David Perell (\"the writing guy\") to share the process of visualizing concepts in real-time. We cover: How to visually construct an idea in your mind How to remove everything possible but still make the point How design and writing are similar: Write a draft, edit, publish How to study ideas like they are stories: Look for a transformation, a contrast, a beginning and an end, a before and after paradigm",
+            "video_url": "https://www.youtube.com/embed/9K35a_TmKtA"
+          },
+          {
+            "id": 5,
+            "title": "Just Run",
+            "body": "How does the fielder know when and where to run? By subconsciously processing visual information. A process backed by millions of years of evolution - we've been making calculations on the fly based on visual inputs since the dawn of time. The above quote is pulled from Psycho-Cybernetics (add it to your reading list). To carry on the science theme, I want to share another idea with you. While we're covering some background theory in this course, it is our ultimate goal to get you into the pool as soon as possible.",
+            "video_url": null
+          },
+          {
+            "id": 6,
+            "title": "Pattern Recognition",
+            "body": "We're built to recognize visual patterns. Here's a quick example to prove the point: Determine the pattern in this image: Now, try to figure out this one: Which version did you get faster? Which version will you remember for longer? Visuals help us add additional context to our ideas. Visuals help viewers reach conclusions faster and better recall the actual idea we're referencing, rather than the specific language used to describe it.",
+            "video_url": null
+          },
+          {
+            "id": 7,
+            "title": "This is Your Brain on Images",
+            "body": "The speed at which our brain processes images is at least 15.6x faster than text (according to MIT) Science aside for a minute, the sheer depth of meaning that can be conveyed in an image is an entirely different beast than the written word. Images can quickly create additional understanding, going beyond what we can convey with language. Case-in-point, take the image below that's displaying the difference between the human ability to process images vs. words. Sight has the jump on language in our evolutionary toolbox by a few million years. As a species, we were using our eyes to make visual calculations long before we figured out how to read and write. Historically speaking, our vision (both physically and metaphorically) has moved us forward as a civilization. When we see someone doing something useful, we figure out how to emulate it. When we see something that solves a problem, we figure out how to build it. Apply that same logic to explaining how to build an axe vs. using an axe in front of somebody: Which is easier to understand? Which is more memorable? Which helps you understand the concept of an axe better? This same logic applies to whatever it is you do. A visual example of what you're referring to massively accelerates the learning curve, and subsequent adoption of the idea.",
+            "video_url": null
+          },
+          {
+            "id": 8,
+            "title": "Shared Symbols",
+            "body": "When we speak to each other, we often misinterpret intention, tone, and the very definition of the words we use. Let's go back to the axe example in the previous lesson. Extrapolate this to your business: What if I don't know what rope is? (process-specific knowledge) What if I've never had to cut down a tree before? (industry-specific knowledge) If the result isn't demonstrated visually, it's incredibly hard to understand, and even more difficult to put into action. Visuals create common understanding, and tap into our ability as humans to make rapid calculations based on visual input. Our shared visual references outstrip our shared verbal references, they don't rely on us having the same vocabulary, speaking the same language, or studying the same topics. Below, you'll find a series of visual devices you can leverage to communicate more clearly. (these graphics are all included in the Figma workspace for you to experiment with.) When comparing the scale of two or more things, we understand Z is more significant than Y is more significant than X. When looking at a spectrum of information, we understand the position of each element depicts its position between two variables. When looking at a timeline , we understand the sequence of events plotted from left to right implies their chronological occurrence. When looking at a Venn diagram , we understand the overlap depicts a combination of the factors represented by the individual circles. When looking at a flow chart , we understand the representation of a decision changing the outcome. When looking at a diagram that depicts hierarchy, we can instantly decipher the most important elements from the least important. When looking at gestural data , we understand the labeled axis' of a graph can be used to demonstrate their influence on the \"plotted\" variable. When presented with a loop , we instantly understand the real-world scenario being implied. When looking at data plotted between two variables , we can understand",
+            "video_url": "https://www.youtube.com/embed/QkGMO5s3m4I"
+          }
+        ]
       },
       {
         "title": "Visualizing Value",
-        "lessons": ["The Visualize Value Process", "Via Symbols", "Via Metaphor", "Via Scale", "Visualizing Service Value"]
+        "lessons": [
+          {
+            "id": 9,
+            "title": "The Visualize Value Process",
+            "body": "How do you add visual context to an idea? The below video breaks down the thought process behind building a Visualize Value graphic in real-time. You'll watch me deconstruct an idea -- \"Examine what is said, not who speaks.\" -- and use visual cues to communicate the nuance of the concept step-by-step.",
+            "video_url": "https://www.youtube.com/embed/WKyXmt5eGXk"
+          },
+          {
+            "id": 10,
+            "title": "Visualizing Value via Symbols",
+            "body": "Extracting visual symbols from your ideas is a powerful way to reinforce a concept. In the below image, Hellen Keller's quote is describing her interpretation of the mechanics of happiness. What symbol do we all associate with happiness? A smiling face. We can add another layer of meaning to the image by using the arced arrow to represent the journey Keller is describing. The statement has been intentionally separated into two logical parts (the eyes of the metaphorical face), describing the position of the subject before and after taking this advice (connected by the smile). Examine what is said, not who speaks. — Arab Proverb In this example, we're using simple geometry to infer communication between two parties (the user interface from your favorite messaging app.) The contrasting emphasis of elements maps back to the sequence in the statement, on the left hand side, we're examining what is said, on the right, we're examining who speaks . \"Where there is no vision, there is no hope.\" — George Washington Carver Here we're leveraging a common symbol for eyesight to depict two different situations. On the left, a lack of vision -- leaving the subject in the dark, on the right -- brilliant clarity .",
+            "video_url": null
+          },
+          {
+            "id": 11,
+            "title": "Visualizing Value via Comparison",
+            "body": "One of the most powerful tools at our disposal as visual communicators is the ability to create contrast through comparison. We are constantly using comparison to draw conclusions in our everyday life. The same mechanic works when we think about conveying our ideas visually. “In theory, there is no difference between practice and theory. In practice, there is.” — Yogi Berra Yogi Berra's words are making a comparison between a hypothetical situation and reality. The visual language used to represent this idea are following the same construct. To break this down a little further, let's take an example from the financial world — \"compound Interest,\" the idea that the compounding gains from long-term investing begin to accelerate at an alarming rate over long periods of time. The image above is borrowing the symbols we associate with the theory of compounding wealth (the smooth, textbook looking curve on the left) and the actuality of compounding wealth (the frenetic, fluctuating chart on the right).",
+            "video_url": null
+          },
+          {
+            "id": 12,
+            "title": "Visualizing Value via Metaphor",
+            "body": "In some cases, no existing symbol exists to conveniently express an idea. When that is the case, we can reverse engineer a visual from a written concept. Take the statement below: \"Reality is unbiased. A complex set of systems beyond our comprehension. Your perspective is biased. A simplified framework of inherited beliefs and assumptions.\" So how do we articulate \"reality\" as a visual? We know that nature produces perfect geometric patterns, many of which can be modeled mathematically ( see here ). Based on this phenomena, we can draw a simplified version (pictured left), and emphasise the narrow/biased view using the iconography of a \"target\" (pictured right).",
+            "video_url": null
+          },
+          {
+            "id": 13,
+            "title": "Visualizing Value via Scale",
+            "body": "Scale is another visual tool we can use to communicate ideas quickly. Take this quote: The man who moves a mountain begins by carrying away small stones. — Confucius Scale plays an obvious role in the language used here, and can be further reinforced with some simple visual storytelling. First, a hyper simplified representation of the \"mountain\" in question (depicted left), second -- an almost imperceptible trimmed corner, \"carried away\" from the original form. Simple, effective, memorable. For a more complex example, here's a client of ours that builds global supply chains for direct-to-consumer brands. Their capabilities far exceed those of their competitors, but until they articulated it visually, it wasn't obvious to prospective clients.",
+            "video_url": null
+          },
+          {
+            "id": 14,
+            "title": "Visualizing the Value of a Service",
+            "body": "We leverage the principles outlined in the above chapters to both build a consumer-facing brand and a B2B service business. As we covered above, and in our conversation with David Perell, the real trick to communicating value is articulating the transformation or the contrast between two situations. We've used this process to better articulate what we do, and it creates a huge amount of leverage in our sales process. The below video breaks down the design decisions behind our most effective asset: Key Takeaways: When building a narrative to sell a service or product: Use clear, concise, and descriptive language Leverage visuals to expand upon your ideas Break down what you do into \"transformations\"",
+            "video_url": "https://www.youtube.com/embed/x0n5EB0U4ns"
+          }
+        ]
       },
       {
         "title": "The Elements",
-        "lessons": ["Typography", "Restraint", "Alignment", "Image Treatment", "Negative Space"]
+        "lessons": [
+          {
+            "id": 15,
+            "title": "Designing a Content System",
+            "body": "In this lesson, I'll be illustrating how to bring together five simple components to build a Content System. A handy acronym to remember \" TRAIN \": T ypography, R estraint, A lignment, I mage Treatment, N egative Space. 1. T ypography Pick your typefaces. 2. Restraint Choose a limited color palette. 3. Alignment Establish geometric relationships. 4. Image Treatment Unify your images with a simple, consistent treatment. 5. Negative space Guide the eye by letting design elements breathe. Here, we'll put it all together on video: View on YouTube",
+            "video_url": "https://www.youtube.com/embed/5bE0MLDQgtk"
+          },
+          {
+            "id": 16,
+            "title": "Typography",
+            "body": "Typography is a skill mastered over a lifetime, but there are some foundational principles to understand at the beginning of your journey. First, every typographic decision you make is saying something. Some typefaces whisper, some shout, and some slap you in the face. Take a look at the image below and see for yourself. Two high-level distinctions to understand: Sans-Serif: Modern, clinical. Serif: Traditional, sophisticated. The rabbit hole goes a lot deeper than that, but since we're focused on getting from zero to one, we'll leave it there for now. Typographic Hierarchy: Typography is another visual tool to lead your reader. Pick up a newspaper and scan it. Your eye will naturally pick out elements in order of importance. Remember this idea when you're designing any content that includes the written word. Here's a video to take you from zero to one in typography: The Figma document shown in the video is linked at the end of the course for you to play with on your own.",
+            "video_url": "https://www.youtube.com/embed/Vd6jZR-GknA"
+          },
+          {
+            "id": 17,
+            "title": "Restraint",
+            "body": "Make one decision to save 1,000 decisions. When I started Visualize Value, I made a couple of decisions that eliminated the stylistic deliberation that stops so many people from gathering momentum. By creating self-imposed restraint up front, it took away the distraction of constant decision making and allowed me to actually start. My decisions were: \"I'm going to stick to black and white, vector images.\" \"I'm going to stick to concepts that resonate with me personally.\" I'm a firm believer in the idea that \"good advertising wears in, not out.\" We have a tendency to abandon our ideas before anyone else has the chance to convince us to keep going. One of the biggest lessons this project has taught me is that restraint is a really powerful tool in making you more creative. If you can't hide behind constantly tweaking color, typography, and images, you're simply forced to just come up with better ideas using the constraints you've imposed upon yourself. Build a visual system that constrains you, and your ideas will get better with every iteration. As with any pursuit, the fewer tools you try to master at once, the better.",
+            "video_url": null
+          },
+          {
+            "id": 18,
+            "title": "Alignment",
+            "body": "Much of what we recognize as \"good design\" is determined by invisible relationships. How does Apple create such a simple but luxury brand aesthetic? It's often the tiny decisions that you wouldn't think of as particularly influential -- possibly only even noticeable subconsciously -- that pull a piece of design work together. Once we're able to consciously leverage the principle of alignment, our work gets more and more satisfying to look at. It's a skill you'll master with time, but there are training wheels available: The grid underlying the design below is based on the Golden Ratio, and it makes it very difficult to design anything that doesn't strongly consider the principle of alignment. Here's the Golden Ratio Grid in action: Top Alignment Takeaways: Create relationships between floating elements. Rely on the grid and rulers. Let things breathe.",
+            "video_url": "https://www.youtube.com/embed/Fp4C_d4QWWw"
+          },
+          {
+            "id": 19,
+            "title": "Image Treatment",
+            "body": "While not a necessary component of your visual system, a consistent image treatment is a powerful way to create additional consistency in your content. This short video covers: How to create a consistent photo treatment How to frame images in shapes Where to source images legally ( unsplash )",
+            "video_url": "https://www.youtube.com/embed/K9B7_wPrQ_4"
+          },
+          {
+            "id": 20,
+            "title": "Negative Space",
+            "body": "Space is not there to fill. It's there to frame. We tend to cram as much information onto a canvas as possible. Negative space is the area around and between a subject. It is much like a pause in a conversation. Our instinct is to keep talking. Instead, we could take a moment to collect our thoughts, listen, and let the silence come. Your audience appreciates brevity, both verbally and visually. Work hard to give it to them. It takes practice, but this is where I am on the negative space spectrum. I've allowed it to become a guiding principle of my work and brand. It takes time, but challenge yourself to remove everything you can that isn't absolutely necessary.",
+            "video_url": null
+          }
+        ]
       },
       {
         "title": "The Tools",
-        "lessons": ["Figma Basics", "Google Fonts", "Consistent Content Brands", "Unsplash", "Icons"]
+        "lessons": [
+          {
+            "id": 21,
+            "title": "Figma Basics",
+            "body": "The lessons in this workshop are not exclusive to any software, but we've made the files we've been working with available on Figma. If you are going from zero to one on Figma, please watch this video to get a handle on the basics: You have access to this Figma workspace – it is linked at the end of the course in the \"Execution\" section.",
+            "video_url": "https://www.youtube.com/embed/QefdmsSWnag"
+          },
+          {
+            "id": 22,
+            "title": "Google Fonts",
+            "body": "Typographic decisions have a massive impact on how your work will be interpreted. Google Fonts is a great resource for free fonts. Here's a video showing you how to browse, download, and use them: My favorite Google Fonts: Rubik Work Sans IBM Plex Family (Mono, Sans, Serif)",
+            "video_url": "https://www.youtube.com/embed/iG-w5UjU1p0"
+          },
+          {
+            "id": 23,
+            "title": "Consistent Content Brands",
+            "body": "Publishing content in a consistent, curated manner will help you build brand equity and attract a loyal audience. It's what we've done with Visualize Value: 29,000 Followers on Twitter 52,000 Followers on Instagram Update in November 2020: 111,000 on Twitter 166,000 on Instagram Some other content brands we admire that leverage the principles of a consistent aesthetic, a consistent message, and a consistent frequency are: @statline on Instagram Templates to showcase player quotes Templates to visualize exchanges between players Templates to depict player stats @thingtesting on Instagram Templates to showcase product consistently Consistent photographic style Templates to break down products in detail @vice on Instagram Simple, consistent editorial format. One recognizable typeface Simple grid system Notice we aren’t flooding you with examples. There aren’t many brands publishing consistently (look, feel, message, frequency). Take the opportunity to stand out. Implement the lessons outlined in this workshop. Two examples from our previous work: The Wealthy Expert A simple, 2-color system (bone and navy blue) A consistent, photographic approach (vintage images) A sophisticated, typographic palette Evident A simple, 2-color system (turquoise and deep purple) A consistent, graphic approach (simple mathematic forms) A single typeface",
+            "video_url": null
+          },
+          {
+            "id": 24,
+            "title": "Unsplash",
+            "body": "It’s illegal to use photography without permission for both personal and professional work that you haven't purchased or been granted explicit permission to use. For high-resolution images that are completely free and safe to use, we recommend Unsplash . It is very straightforward to use and has great features for refining searches -- like orientation, color, and relevance, as well as automatic suggested narrowing down of search topics. Search their pre-made collections for inspiration when you aren't sure where to start. Add Unsplash to your browser bookmarks .",
+            "video_url": null
+          },
+          {
+            "id": 25,
+            "title": "Icons",
+            "body": "The best libraries of icons are on Noun Project . Another great option for customizable icons is Nucleo App .",
+            "video_url": null
+          }
+        ]
       },
       {
         "title": "Publishing Your Work",
-        "lessons": ["Publishing Mindset", "Formatting & Scheduling"]
+        "lessons": [
+          {
+            "id": 26,
+            "title": "Publishing Mindset",
+            "body": "3 things to remember. Turn up the volume Here's some perspective on getting your work out there. If you want to break through the noise, be prolific. Form improves with repetition Everyone starts weak. Mastery comes from putting in the reps. Iteration > Invention As mentioned in the restraint chapter, focus on a single idea will pay dividends over time.",
+            "video_url": null
+          },
+          {
+            "id": 27,
+            "title": "Formatting and Scheduling for Social Media",
+            "body": "It is important to know the specific size requirements, optimizations, and ways to export and upload your work across platforms. Social Sizes and Exporting : Please watch this video to learn about optimizing for social platform sizes (we give you sized templates) and exporting on Figma: Tip : I have seen the best success on Twitter with 16 x 9 images. You have access to these pre-sized templates in the Figma workspace at the end of the course. Exporting to Instagram: Using Facebook Creator Studio Watch this video to see how to export artwork for an Instagram post and get introduced to Facebook Creator Studio: Check out Facebook Creator Studio here . It is a great hack for avoiding unnecessary time on your phone, as you can post to Instagram through the browser portal. Adapting Instagram Artwork for Twitter: Watch this video to learn how to resize an Instagram asset for Twitter and how to leverage Hypefury to schedule content on Twitter:",
+            "video_url": "https://www.youtube.com/embed/3ifldELbeZ8"
+          }
+        ]
       },
       {
         "title": "Execution",
-        "lessons": ["Next Steps", "Figma Workspace"]
+        "lessons": [
+          {
+            "id": 28,
+            "title": "Figma Workspace",
+            "body": "The best way to get started is to jump in the pool. You'll learn best by doing, playing, and experimenting. Here is the link to the Figma workspace we've put together for you . You will initially have access to the file as \"View Only.\" You will need to make a copy (\"Duplicate to your Drafts\") to your own account. See the screenshot below: After you've made a copy, please jump in and start messing around. Remember: TRAIN if you ever get lost: Typography, Restraint, Alignment, Image Treatment, Negative Space.",
+            "video_url": null
+          }
+        ]
       },
       {
         "title": "Bonus Content",
-        "lessons": ["How to 'Visualize Value' Office Hours", "Proof of Work & Sawdust", "Building Profitable Content Ecosystems", "Proving Your Intellectual Capital"]
+        "lessons": [
+          {
+            "id": 29,
+            "title": "How to \"Visualize Value\" Office Hours",
+            "body": "",
+            "video_url": "https://www.youtube.com/embed/o_njzD_dyK4"
+          },
+          {
+            "id": 30,
+            "title": "Proof of Work &amp; Sawdust",
+            "body": "",
+            "video_url": "https://www.youtube.com/embed/wZc5yoYRKuY"
+          },
+          {
+            "id": 31,
+            "title": "Building Profitable Content Ecosystems",
+            "body": "",
+            "video_url": "https://www.youtube.com/embed/2MGLxCoK_vw"
+          },
+          {
+            "id": 32,
+            "title": "Proving Your Intellectual Capital",
+            "body": "A replay of a live webinar sponsored by Theory AE & Entrepreneur.",
+            "video_url": "https://www.youtube.com/embed/azhqc4K-GAE"
+          },
+          {
+            "id": 33,
+            "title": "Pitching Visualize Value as a Service",
+            "body": "Before building any of Visualize Value's digital product, it was sold as a consulting offer. In the video below, I break down the keynote I used to pitch it.",
+            "video_url": "https://www.youtube.com/embed/sfmmDBRoqTA"
+          }
+        ]
+      },
+      {
+        "title": "Requests",
+        "lessons": [
+          {
+            "id": 34,
+            "title": "Make a Request",
+            "body": "Have a request for some additional content? Something I didn't cover that you expected to see? Drop a comment below and I'll be sure to make it happen.",
+            "video_url": null
+          }
+        ]
+      }
+    ]
+  },
+  "build-once-sell-twice-the-productization-playbook": {
+    "title": "Build Once, Sell Twice",
+    "description": "",
+    "free": true,
+    "modules": [
+      {
+        "title": "The Goal",
+        "lessons": [
+          {
+            "id": 35,
+            "title": "Build Once, Sell Twice",
+            "body": "Welcome to the field manual for earning a living in the new economy. What this course isn't: An exact formula for you to follow (that won't work) A dogmatic prescription of what to do (that won't work) A recommendation that you replicate my business exactly (that won't work) The entire premise of this course is centered around a simple but expansive idea that will change the way you think about your time:",
+            "video_url": "https://www.youtube.com/embed/SIKv5G4AhG8"
+          },
+          {
+            "id": 36,
+            "title": "The VV Story",
+            "body": "Before we get into the course, I would like to set some context by explaining my journey to date. I have spent a long time trying to figure out how to get into the position I am in right now - writing this to you, and take my responsibility of delivering what I promised very seriously. It is my intention to extract the lessons I've learned from this journey and communicate them in a way that you can leverage them to build an asset you're proud of. For a little more context, here's an older video explaining how I originally pitched Visualize Value as a Service, back in mid-2019:",
+            "video_url": "https://www.youtube.com/embed/u3uRseYuH_Q"
+          },
+          {
+            "id": 37,
+            "title": "Engineering Freedom",
+            "body": "Build a reputation on the internet. While there are thousands of business books filled with hypothetical strategies for building the next Facebook, I'd like to walk you through a process that you can use to find, monetize, and scale your specific knowledge as an individual . It's my belief that the business landscape will continue on its current trajectory, the big will get bigger, the small will get smaller. Currently, 11.8% of commerce happens online.* The other 88.2% is on its way. The best strategy to take advantage of this trend over the long-term is to build a reputation on the internet. For the individual, the risk is relatively low, while the potential upside is huge. * 2020, census.gov",
+            "video_url": null
+          },
+          {
+            "id": 38,
+            "title": "Executive Summary",
+            "body": "The techniques, strategies, and tactics I will be referring to throughout this course are specific only to what I can prove with my experience. Visualize Value is a remote business run entirely by my wife Celia and me. As I explained in the introduction video — our previous business was focused solely on service (an advertising agency), and it was impossible for us to accelerate our income and free up our time, the more money we made the more miserable we became. Below is a summary of our results year-to-date since pivoting our model to incorporate the things we'll be sharing in this course. (Not pictured is 2019, where our service revenue was very similar, but our product revenue virtually non-existent.) As you can see, our service revenue fluctuates dramatically, hitting a ceiling of $58,000 in February. Here, we're constrained by the time we spend on client work in person. However, since introducing product, we've been able to break the \"time barrier\" capturing more than 3x our service revenue, in less time, and with zero additional labor. This is the nut we want to help you crack. It is important to mention that we had no intention of burning the metaphorical \"service boat\" for a number of reasons. We still had clients to service, and we were not prepared to forfeit a solid income stream to gamble on a new business. So how did we make this transition? By narrowing our focus drastically. This is the trap I see most service business owners fall into — they assume that by getting hyper-specific about the problem they solve, they're opting out of a wider opportunity. This would technically be true if the laws of the universe didn't apply to you. If you are a human being though, it is a belief that will keep you stuck on the service hamster wheel forever. If you want to escape, you need to create demand. To create demand, we built a front-end asset that proves our capabilities to the market, builds audience, and slowly increases our reputational equity. Beginning wit",
+            "video_url": null
+          }
+        ]
+      },
+      {
+        "title": "The Game",
+        "lessons": [
+          {
+            "id": 39,
+            "title": "Build Mindset",
+            "body": "Building mindset is the crucial first step in this journey and a habit that must continue every day. It provides the foundation of pushing through when you feel like giving up. How we think determines what we do, what we do determines where we end up. Simple enough, isn't it? Here's a few short points on how to think about the upside of making yourself into an asset, and the mental barriers it'll be necessary to smash through consistently. Take responsibility It’s on you to create an asset that’s going to look after you and your family over the long-term. It’s going to be uncomfortable, it's going to be competitive, it's also going to be worth it. The potential downside of building a decentralized network of people that value what you do is low. The upside is huge. Building your reputation on the internet is an asymmetric bet. Take calculated risk Embrace the risk that comes with trading under your own name. Put skin in the game and you will force yourself to get better. Engage in this pursuit with honesty and integrity and you will learn a great deal about yourself, the world, and other people. Take control You have nothing to offer until you get started. In the words of Naval Ravikant, \"Learn to sell, learn to build. If you can do both, you will be unstoppable.\" You will experience failure. You will experience embarrassment. You will experience growth. Most people are more reluctant to rely on a network of 4.5 billion people for their entire future than on one employer at a time. You don't need permission from anyone but yourself. I didn't need permission from anyone to sell you this product, I just posted thousands and thousands of times until you believed I had something of value to offer you. And now, here you are. (And I appreciate you.) So, understand that this is simply a game of iteration. The sooner you put yourself out there, the sooner you'll get the feedback you need to grow.",
+            "video_url": null
+          },
+          {
+            "id": 40,
+            "title": "Build Skill",
+            "body": "The value of everyone’s time starts at zero. Always remember: Nobody cares what you can do, everybody cares what you can do for them. For a hard-hitting perspective on this, read this article. Learn by experience Everyone acquires knowledge via experience. The skills we pick up working a job, following our interests on the side, or studying for specifically. At this stage, we're still responding to demand. Investing our time to build skills that the market values until we're confident enough to sell them independently. It takes years to acquire knowledge specific enough to be productized. In the end, the more unique your experience, the more valuable your product. Understand the above and you can reframe what you'd once think of as wasted time as a necessary investment in becoming unique. For context, I stumbled upon the concept of productization long after I'd spent many years accruing a random selection of skills and experiences - and deployed them against many different types of problems. If you're just getting started, you can do what I did (get paid to learn on the job) , or you can circumvent the market by building skills off the job (get paid and learn on the side) . Learn by iteration Remember, everyone you admire was once a beginner. The unavoidable first step in creating something valuable is creating something worthless. It's a privilege to fail in public. When you're operating with skin in the game, you'll be driven to iterate forever. Think of your working life as simply a series of experiments, because it is. Learn by helping Make others successful. Pick up skills in application and start to get a feel for where you add the most value. Eventually, you’ll generate results and other people will see value in your skills. More on this later. Learn by building Permissionless projects = permissionless progress. The internet makes it possible to build projects in public to validate demand. Visualize Value didn't begin with a very specific business plan, it wa",
+            "video_url": null
+          },
+          {
+            "id": 41,
+            "title": "Build Process",
+            "body": "Your skills are valuable, but so are everyone else's. Now your job is to package your unique skills, perspective, and interests in a way that generates exclusive demand. Regardless of what you're selling, the three steps below are a universal formula for creating demand and positioning yourself as the solution to the demand you've generated. Make content that points out the problem. Make product that provides the solution. Prove the problem Your ability to provide service is dictated by your ability to position yourself as the answer to a problem. Not all problems are colossal. Think back to the don't, won't, can't idea - get experience from doing things people don't want to do, expand into what they won't do, and end up doing what they can't do. \"The world doesn't reward people who are the best at solving problems, it rewards people who communicate problems best.\" — David Perell Your ability to articulate the problem is as important as your ability to solve it. One more time for the people in the back: You can only solve the problems you can articulate. Prove the process \"A problem well-articulated is a problem half solved.\" — Charles Kettering The other half of the problem is designing a process that makes it possible for you to solve that well-articulated problem for lots of people. Step 1: Communicate the problem well. Step 2: Communicate the solution well. The real beauty in this part of the puzzle is that you don't need anyone's permission in order to prove your ability to the world. Set yourself a hypothetical exercise and make something real. Prove yourself (the solution). People trust people. Gather proof that your service is delivering the result you promised at every opportunity. You can measure the quality of your solution based on the amount of friction between you and the collection of social proof. If you have to beg for it, go back and improve the product. If people give it to you voluntarily, go out and tell more people:",
+            "video_url": null
+          },
+          {
+            "id": 42,
+            "title": "Build Reputation",
+            "body": "We're fortunate to have the opportunity to build a network of people around our ideas, interests, and abilities, regardless of where we are physically. The long term goal of cementing your unique reputation is to escape competition entirely: \"Anyone can make their own whiskey, but only Glenfiddich can make Glenfiddich.\" Here's a compilation of ideas that are foundational to scaling your network on the internet. Be deliberate. Make noise, listen for signal. When you start getting signal, double down. Focus on substance and accelerate your output cycle. If you want to be recognized by the market, be deliberately recognizable. \"Good advertising wears in, not out.\" — Jon Lombardo Be assertive. You now have confidence and permission from the market to make yourself prominent and visible in your specialty. The market will reward you for convincing people you’re better. Speak in statements. People will only trust you to the degree you trust yourself. Be impervious. When you reach a certain scale, criticism and imitation are inevitable. Embrace both. They’re signals your audience is growing. Opinions are required for markets to function. Realize this and you will stop taking things personally. Be prolific. Find 1,000 ways to say the same thing. Constantly show people what you’re doing. Your audience should feel like you’re everywhere they look. Be open. Take people behind-the-scenes and continuously sell your sawdust. Prove you can solve specific problems by showing how you do it. Give away your “secrets” and people will pay you to implement them. Be yourself. Too often, marketing is a firewall we put up to protect ourselves from the market. The closer you can get to your natural state in your communication, the better insulated from the competition you will be. This is extremely uncomfortable at first, but well worth it over the long-term. After all, people buy from people. \"A company is successful to the extent it does something other companies can't do.\" — Peter Thiel Wi",
+            "video_url": null
+          },
+          {
+            "id": 43,
+            "title": "Build Product",
+            "body": "At this stage of the journey, you've increased the value of your time, but there’s a limit to what you can do. Now, it's time to leverage your reputation and specific knowledge into a profitable asset you own, and can sell infinitely with zero cost of replication. Design for a result. Design a product around a result you’ve delivered repeatedly. After proving our ability to translate concepts into visuals to build an audience of over 100,000 people, generate $80,000 in consulting revenue for ourselves, and many multiples of that for our clients, I was confident in my ability to help others learn the skills behind the result. How to Visualize Value — Design Fundamentals was born. Design on internet infrastructure Build it yourself Today, you can use technology to construct a digital business without writing a single line of code. Here's what the Visualize Value tech stack looks like: How it all fits together: Content creation: We create Visualize Value graphics with figma.com , Keynote, and After Effects. Demand generation: Those assets are distributed on Instagram and Twitter, and leveraged into YouTube videos and longer-form emails. As the audience grows, we drive more traffic into our Demand Capture layer. Demand capture: Traffic from social platforms and emails lands here. We use Shopify to host our consumer products and a custom-built webflow page to explain our consulting services. We use calendly to set up calls for our consulting services. Client Service: The final layer of the tech stack is comprised of the tools we use to service clients. MightyNetworks is where we host our courses, and our community runs on Slack and Zoom. Promote yourself This goes without saying, but I'll say it anyway. If you are not competing for attention on the internet, you are opting out of the largest captive pool of attention to have ever existed in human history. There's asymmetric upside in producing media that communicates your skillset to the world. Tweet, record podcasts, ma",
+            "video_url": "https://www.youtube.com/embed/d8SgIdQfYtk"
+          },
+          {
+            "id": 44,
+            "title": "Build Authority",
+            "body": "People don't buy your product, they buy you. Play the long game. Own your reputation Build mutually beneficial relationships on top of your unique assets and abilities. Collaborate with people who compliment your skillset. As your network grows, and your reputation increases in value, so do the participants in your network, and by extension, the opportunities you have access to. As this compounds, you can become more and more selective in the opportunities you choose to pursue. Own your failures When you mess up, own up. “Your reputation takes years to build and five minutes to destroy.” — Warren Buffet I have made a few mistakes in growing the Visualize Value business. On each occasion, owning up and asking for forgiveness has resulted in some of the most incredible bursts of growth we have seen as a company. With ultimate transparency comes a higher degree of risk, respect your network like your livelihood depends upon it, because it does. Own your story Wrong way? Good. Right way? Good. The true differentiator in everything we've discussed is the unfathomable number of organic inputs that made you the person you are today. Here's one of my first YouTube videos that explains the concept: The more transparent you are in your marketing, the less pretending you have to do when you're working. “Mild success can be explainable by skills and labor. Wild success is attributable to variance.\" ― Nassim Nicholas Taleb",
+            "video_url": "https://www.youtube.com/embed/codv-EjADhY"
+          }
+        ]
+      },
+      {
+        "title": "The Rules",
+        "lessons": [
+          {
+            "id": 45,
+            "title": "Reputation, Reciprocity &amp; Equity",
+            "body": "Rule #1: You are the most valuable asset in your portfolio. Your reputation is a proxy for your future earnings. Reputation is a simple construct, built on two ideas: Ability: What you can do. Reliability: What you actually do. In order to succeed, you need to be able to demonstrate both. One of the core concepts of this course is to publish proof of work, which checks both boxes, building a network of people who both admire what you do, and trust that you can do it. Your network increases the value of your portfolio exponentially, connecting you to earning opportunity in the future. The Well of Reciprocity In a digital-first business, your \"storefront\" is decentralized across the platforms you use to build and communicate with your network. Every tweet, every email, every video, every podcast is an investment vehicle that generates equity after you take it to market . If it never gets to market, no equity for you. Your equity in the market represents the collective value assigned to you by people consuming your message. On occasion, it makes sense to collect the dividends you've earned . This is not an exact science, but you will get a feel for how it works in time. 80:20 is a good rule of thumb: Add value 80% of the time. (Build equity) Ask for value 20% of the time. (Collect dividends) What that looks like in practice:",
+            "video_url": "https://www.youtube.com/embed/9PaJJO-_rFY"
+          },
+          {
+            "id": 46,
+            "title": "Ownership x Time = Freedom",
+            "body": "Rule #2: Ownership sets you free. Our ability to free ourselves from the expectations of others is dependent on our ability to create things that pay for us to live how we want. You are an asset. Your combination of skills is an asset. Your unique experience is an asset. Your reputation is an asset. Invest in them.",
+            "video_url": null
+          },
+          {
+            "id": 47,
+            "title": "Value Creation",
+            "body": "Rule #3: Create value for others. What is value? According to Google, it's: \"The regard that something is held to deserve; the importance, worth, or usefulness of something.\" If we translate that to its application in the real world, it goes a little something like this: To create value, you can: Do things people don't do. (non-specific, $) Do things people won't do. (specific, $$) Do things people can't do. (ultra-specific, $$$) For example: Mow lawns. ($, easy) Run a lawn mowing service. ($$, difficult) Build a successful landscaping service marketplace. ($$$, very difficult) \"You get paid in direct proportion to the difficulty of problems you solve.\" — Elon Musk Another way to think about how value is perceived: Psychological (make someone feel better) Monetary (make someone money) Functional (make someone more competent) Social (make someone fit in better) Bonus points if you can do all four. In practice, for Visualize Value: Psychological: Community support & mentorship Monetary: Strategy for building a profitable asset Functional: Get real insight into a brand that is doing it in real-time Social: Combine the above to become independent and accomplished",
+            "video_url": null
+          },
+          {
+            "id": 48,
+            "title": "Leverage",
+            "body": "Rule #4: Amplify your effort. Welcome to the Internet. Your good decisions can be amplified exponentially. You can connect with anyone on earth that needs what you do. You can use software to do things that used to require a team. So what does all this mean? It means you can build a one-person business with just an internet connection. Leverage is a core concept of the \"Build Once, Sell Twice\" playbook. Invest effort once, apply it multiple times (via technology). This applies to the sale of your product, but it also applies to every aspect of your business: Speak once, stream twice. Write once, publish twice. Design once, use twice. Build once, sell twice.",
+            "video_url": null
+          },
+          {
+            "id": 49,
+            "title": "Compounding",
+            "body": "Rule #5: Be patient. \"Compound interest is the eighth wonder of the world. He who understands it, earns it. He who doesn't, pays it.\" — Albert Einstein It affects: Your health Your money Your relationships Your reputation Your abilities On this journey, it's important to keep in mind the true power of compounding. Take this legendary exchange from Hemingway's The Sun Also Rises : “ How did you go bankrupt ?” Bill asked. “Two ways,” Mike said. “Gradually, then suddenly.” The reason this concept is so important to remember (when combined with the leverage component we just covered) is that it takes time. Most people haven't been patient enough to benefit from compound interest, and substitute their lack of personal experience for a lack of belief in the concept altogether. The reality, however, is that many just give up before they reach the threshold where compounding kicks in meaningfully. Those who reach a size where network effects become meaningful benefit massively over the long term. Underestimating the power of network effects when you're building on the internet is a massive blindspot. Most people: Here's a real example from the Visualize Value journey: A year of network building on the front-end, leveraging personal conversations into paid consulting and design gigs, while building up equity that can now be extracted as dividends via product sales (12 months later). Had we attempted to sell product out of the gate without building reputational equity, there's no chance we would've seen the results we do today.",
+            "video_url": null
+          },
+          {
+            "id": 50,
+            "title": "Failure",
+            "body": "Rule #6: Reframe failure. Before we get too far into this thing, let's talk about failure. The way you frame failure is one of the most influential factors in the trajectory of your growth. I'd like to propose a new, extremely simple definition to carry with you for the duration of this course (and far beyond if you'd like to see lasting results): The only way you can fail is by doing nothing. Allow this image to sear into your grey matter: Shoot.",
+            "video_url": null
+          },
+          {
+            "id": 51,
+            "title": "Content",
+            "body": "Rule #7: Clone yourself. There's a lot of noise out there about \"creating content,\" \"documenting the journey,\" and \"posting every day.\" None of this is bad advice, but I'd like to offer a new perspective on content. Content is magic. It grants you the ability to teleport anywhere in the world. To pour your energy into communicating an idea once, that can be watched/read/listened to hundreds of millions of times. There are of course hundreds of practical tactics for leveraging content to grow your network and generate opportunity, but I think it's important to understand the fundamental ability for you to break space and time with your message. An enormous portion of the population would rather leverage this ability to waste time, or worse, fight endlessly about things that no one has any intention to change their minds about. The same reasons the internet is an amazing place to build a business make it a dangerous place for the undisciplined. Demand exceeds supply. If you want to make a living on the internet, spend time on the supply side.",
+            "video_url": "https://www.youtube.com/embed/HW3crSGgOaE"
+          },
+          {
+            "id": 52,
+            "title": "Service",
+            "body": "Rule #8: Work hard until you can work smart. The concept of service is an important part of this story. We're not talking about service businesses (yet), but the concept of service itself. Service is how you learn to help people. I worked in service businesses for 8 years before starting one, and credit those 8 years for teaching me the skills I've now leveraged into an asset of my own. Service in the context of my career as a graphic designer was everything from getting the coffee, to pulling an all-nighter to get a presentation ready for a client, to learning how to use specific software. If you've ever helped another person do something, you are a service provider. In the short-term, while we're gathering experience, the service attitude is exactly what we need to explore the world - build relationships, and discover the things we're interested in. The problem with the \"service\" mentality over the long-term is that it often results in people taking on problems that they aren't particularly qualified to solve. ( in the name of providing service) I have been there hundreds of times, and I'm sure if you're reading this - you have too. The intention is good, but the outcome is usually bad for both parties. One last thing, compensation doesn't just come in the form of cash. Experience (teaches you how to do something) Credibility (drives up the price of what you do) Connections (introduces you to more people to do it for) We'll be unpacking the transition from service provider to asset builder in a few of the later modules.",
+            "video_url": null
+          },
+          {
+            "id": 53,
+            "title": "Service Businesses",
+            "body": "Rule #9: Work yourself out of a job. Service businesses are great (in theory). Crack open your laptop from anywhere in the world and help people solve problems. What's not to like? I've been around this loop dozens of times. Minimal overhead (a computer and some software), just a bit of talent, marketing, and sales, and you're away. But where do most service providers end up? Burned out, overworked, and underpaid. Why? Because they don't have a business, they have a job. They don't create demand, they respond to demand. They don't build process, they reinvent the wheel every time. Again, in the short-term - exposure to many problems is a valuable and insightful process, it helps you figure out what you're good at, but until you commit to a problem and start creating demand , you're stuck in the loop.",
+            "video_url": null
+          },
+          {
+            "id": 54,
+            "title": "Productized Service",
+            "body": "Rule #10: Build systems. \"If you can't describe what you are doing as a process, you don't know what you're doing.\" — W. Edwards Deming Borrowing some words from an accomplished engineer to get the point across here. The transition from service business to productized service business to product is all about building process . When we have process, we have predictability. When we have predictability, we have peace of mind. The productized service is where we begin to see the light at the end of the tunnel. If you're anything like me, you've been \"providing service\" for years, solving miscellaneous problems, responding to requests from people with different interpretations of what you do, and making it work as best you can. A noble pursuit indeed. Now's the time to think demand first. What is it that your clients are buying when they work with you? What is the problem you're solving consistently? How can you turn the solution to that problem into a process? How can you create demand consistently? For me, it was the realization that the work I was doing before the sale was the most impactful and unique. Designing pitch decks that took complex strategy and depicted it visually. Here's how I narrowed my \"full-service creative studio\" into a product that delivers a single result:",
+            "video_url": "https://www.youtube.com/embed/eT8Mg0DyCJ8"
+          },
+          {
+            "id": 55,
+            "title": "Product",
+            "body": "Rule #11: Build assets. \"To make money while you sleep, build things that don't sleep.\" Enter product: The holy grail of digital freedom. A simplified way to think about what's happening across these tiers: Service is work without process. (getting specific knowledge) Productized service is work with process. (stabilizing your time & income) Product is process without work. (buying back your time)",
+            "video_url": null
+          },
+          {
+            "id": 56,
+            "title": "Proof of Work",
+            "body": "Rule #12: Promote yourself. This incredibly simple concept has been responsible for the entire trajectory of my career, both as an employee and a business owner. No one cares what you can do, everyone cares what you can do for them. Whether you're building a software company, a productized service business, an information product, proof of work will accelerate your journey. \"Show me, don't tell me.\" Now, not all of us are designers or think of ourselves as being able to produce \"tangible\" assets that represent what we do. I am here to call BS on that idea. Whatever it is you do for a living, at some point in the process you have to communicate the result of your effort to someone. A document, a video, a presentation, a voice recording. Find a way to turn your results into assets that continue to build equity. Private businesses are not obligated to share the details of their operation, and most don't - in the public markets, information about the performance of a company drives its value. The same is true for you. Show you can solve a problem and you'll earn attention and capital. Here's an example: It's also worth noting that you're creating proof in real-time when you work. Use tools like Screenflow and Loom to capture your process, and promote it on the front end - we'll go deeper into this in Sell your Sawdust later on.",
+            "video_url": "https://www.youtube.com/embed/qFxGtLjcsQQ"
+          },
+          {
+            "id": 57,
+            "title": "Divorcing Time &amp; Money",
+            "body": "Rule #13: Get paid what you're worth. In order to get paid what you're worth, you need to separate the arbitrary connection between your time and your money. The paradox here is that how we spend our time determines how much value we can ultimately create. Here's a simple example: The person on the left-hand side of the diagram below is selling their time. It could be to an employer, it could be to their own business. It doesn't matter - there is still a ceiling on how much they can earn, a limit set by the natural universe. You can't create more time. However, you can create more value. On the right-hand side of the diagram we're looking at a different equation. This person is building assets with their time. They show up on day one, put effort into something, and it's worth more on day 2, they invest again on day 3, 4, 5, etc. When you sell time, the count resets every morning. When you sell value, the count rolls over. To make this even more tangible, let me give you a personal example. Selling time: I have a client who I love working with, and I spend 4 hours a week working with them. I charge $1,250 an hour. That's $5,000 a week. Selling value: I spend the same 4 hours adding new modules to a $499 Visualize Value digital product, spend 20 minutes promoting it organically, and sell 10 copies. Another $5,000. The difference is, that product is available to purchase infinitely, with no additional effort required from me to fulfill it. To divorce your time and money, build assets that work without you.",
+            "video_url": null
+          },
+          {
+            "id": 58,
+            "title": "Curiosity Drives Competence",
+            "body": "Rule #14: Keep Iterating \"Become the best in the world at what you do, keep redefining what you do until this is true.\" — Naval Ravikant The fastest way to learn a new skill: U se it to communicate something you care about to people. Your competence increases your perceived value. Your curiosity increases your ability to produce consistently. When your curiosity makes you more competent, you have exited the realm of competition entirely. You are getting paid to play. It took a long time to deny the instinct that work should feel like work , but there's a distinct difference between working because you want to, and working because you have to. Deciding you want to make the hall of fame is not the same as deciding you're going to spend every day becoming a better player. You get a lot better a lot faster when you enjoy the game.",
+            "video_url": null
+          }
+        ]
+      },
+      {
+        "title": "The Plays (Building)",
+        "lessons": [
+          {
+            "id": 59,
+            "title": "Speak in Problems, Solve in Products (Exercise)",
+            "body": "Simplifying the concept of problem/solution. All we need to do is answer the following questions: What's the problem? How do we know it's a problem? What's the solution? How do we summarize the solution? How do we prove it works? The answer to every question becomes a driving force behind the way we think about, talk about and build each product. Problem: Business owners struggle to articulate their value proposition. How do we know? Validated by response to publishing VV pitch decks. Solution: Visualize Value Sprints. Summary: We clarify & codify your value proposition. How do we prove it works? Do it for ourselves first. Client testimonials and case studies. Problem: Business owners don't realize the value of their own knowledge. How do we know? Interviews with clients that can't see their value. Solution: Visualize Value Trust Profile. (previously Trust Accelerator) Summary: A done-for-you content strategy. How do we prove it works? Client testimonials and case studies. Problem: Entrepreneurs struggle to stay focused and structure their day. How do we know? Answering hundreds of questions on Instagram. Solution: The Daily Manifest. Summary: A sticky system for self-organization. How do we prove it works? Customer testimonials. Problem: Entrepreneurs don't have a support network locally. How do we know? We didn't have one, so we built one. Solution: The Visualize Value Community. Summary: Building a network of builders. How do we prove it works? Community testimonials, member results. Problem: Words don't communicate ideas as effectively as images. How do we know? People told us VV helps them grasp concepts better. Solution: How to Visualize Value — Design Fundamentals Summary: The zero to one guide for simple, impactful design. How do we prove it works? Student testimonials. Problem: The one-person service business causes burnout. How do we know? We built one and burned out. Solution: Build once, Sell twice — The Productization Playbook (hello!) Summary: Secure y",
+            "video_url": null
+          },
+          {
+            "id": 60,
+            "title": "Rapid Ideation (Exercise)",
+            "body": "Idea generation framework using the Prolific Production Matrix: Fill out your own Prolific Production Matrix using this link . Make a copy to your Google Drive first. Here's a long form breakdown of the Prolific Production Matrix:",
+            "video_url": "https://www.youtube.com/embed/CLMyql8npQI"
+          },
+          {
+            "id": 61,
+            "title": "Trust Profile (Exercise)",
+            "body": "How to extract quality content from your competence and curiosity: Build Your “Trust Profile” [ Make a copy of this Worksheet ]",
+            "video_url": "https://www.youtube.com/embed/hVKciMj5Png"
+          },
+          {
+            "id": 62,
+            "title": "The Permissionless Apprenticeship",
+            "body": "If you're reading this, you have the ability to seek out the types of people you want to work with and produce something for them for free. The upside to this technique is enormous, you get something, they get something, your audience gets something, their audience gets something. A true positive-sum game. This was one of the largest growth levers in the early stages of the Visualize Value business. I did this by studying and making artwork for my favorite thinkers, the most notable being Naval Ravikant and Nassim Nicholas Taleb. Whatever your pursuit, you have access to hugely influential players in your space via a network like Twitter.",
+            "video_url": "https://www.youtube.com/embed/-bSZeURTzQE"
+          },
+          {
+            "id": 63,
+            "title": "Personal vs. Project Brands",
+            "body": "\"Should I start a personal brand or a company brand?\" This is a question we receive on a weekly basis. Our opinion on the difference between personal brands and company brands is not a one-size-fits-all recommendation, but more of a perspective on what to consider. The first thing to acknowledge is that you can build a personal brand by simply publishing your ideas on any given platform where you have a profile. The investment to start and maintain a \"company\" brand is a little different. Since “company” has such a broad set of connotations, we’re going to use the term “project brand” to distinguish anything that isn’t a personal brand. So when do “project” brands make sense? In some circumstances, a project brand can create more optionality in the long-run. The advantage of a brand not being attached to an individual widens the set of possibilities for expanding a team, producing a portfolio of products, and potentially selling the company in the long-term. The short-term downside here is it takes longer to form an attachment to something that is a couple of steps removed from an actual person. The upside is the ability to confine and document a specific project over the long-term. For example, @jackbutcher on Twitter is far more effective in converting sales for Visualize Value products than @visualizevalue . Why? Our hypothesis : People buy from people. The signaling of skin-in-the-game and accountability that comes with selling products under your own name can also not be underestimated. Does that mean the Visualize Value brand should not exist? No. Why not? Because it creates equity in a specific “project.” Performing some hindsight analysis, the early focus of Visualize Value (thematically consistent black and white images) likely captured more attention and subscribers due to people buying into the “product” (the only product early on was the content itself). Had the same content simply been posted as 25% of the content published from @jackbutcher, the same m",
+            "video_url": null
+          },
+          {
+            "id": 64,
+            "title": "Content Leverage",
+            "body": "Learning to properly leverage content is a game changer for any business. On both the front and back end of your operation, content is a tool that eliminates the need for you to repeat yourself. Record a lesson once, play it to 1,000 students. Record your product overview once, send it to 100 investors. Write an article once, publish to 100,000 readers. Here's a short video to explain the power of content leverage:",
+            "video_url": "https://www.youtube.com/embed/9f6OZVPlbRA"
+          },
+          {
+            "id": 65,
+            "title": "Story Arbitrage",
+            "body": "When we monetize our specific knowledge, we are tapping into an arbitrage opportunity in the market that nobody else has access to . \"A company is successful to the extent it does something other companies can't do.\" — Peter Thiel With that in mind, the growth vector for a company of one is hugely influenced by how authentically you behave. \"Escape competition through authenticity.\"— Naval Ravikant There are a million courses, YouTube channels, podcasts, blogs, websites, books, events and trainings on building online businesses, but you're here watching this one. Why? Additional note, what's obvious to you is not obvious to someone who isn't you. More on this:",
+            "video_url": "https://www.youtube.com/embed/4OGGAOKFIVs"
+          },
+          {
+            "id": 66,
+            "title": "Tech Stack Tour (Exercise)",
+            "body": "I have never written a line of functioning code in my life. It's a restriction that actually enables me to move faster, because I don't even try. The opportunity cost for me to learn how to code and neglect the skills that I've already validated demand for would be an extremely unwise investment of time and energy. Besides, people have already built the best versions of all the things you need to build a digital business: Inside Visualize Value's Shopify: Tech Stack Exercise: To get started thinking about your own tech stack, this framework will help you contextualize what fits where. Content creation (craft your message) Demand generation (distribute your message) Demand capture (get paid) Client service (fulfill product)",
+            "video_url": "https://www.youtube.com/embed/rlsld0Oxpyw"
+          },
+          {
+            "id": 67,
+            "title": "Platform Periodization",
+            "body": "A short and sweet lesson here. We mentioned above the importance of omnipresence across platforms, the repurposing of content, but here's a perspective on where to start: To grow faster, focus on reaching critical mass on a single platform, then deploy your earned capital into a new investment. Example: Spend 6 months mastering one platform: Build an engaged audience that you can leverage into new platforms as you dial in your message. Spend 6 months trying to grow on 4 platforms: Split your focus across 4 groups of people, asset production, and community management. Who's going to be better off in 6 months time?",
+            "video_url": "https://www.youtube.com/embed/Gmijxq5OnL8"
+          },
+          {
+            "id": 68,
+            "title": "Structuring a Curriculum",
+            "body": "How do you turn a result you're providing as a service into a product that people can buy? Reverse engineer from the result. The best way to validate you're delivering the transition you're selling? Find someone who hasn't made it and work with them to develop your product. It's a simple construct that will help you regardless of what it is you're teaching: Philosophical (foundational knowledge) Practical (real world application) Psychological (overcoming barriers in implementation) In this video, I'll break down how this framework informed the structure of How to Visualize Value — Design Fundamentals .",
+            "video_url": "https://www.youtube.com/embed/2s8Ll9sF_aU"
+          },
+          {
+            "id": 69,
+            "title": "Curriculum as Content",
+            "body": "Let's go into inception mode for a second. The products you're building are evidence for the quality of your thinking and speak more directly to the experience your customer will have than any marketing abstraction will. Said simply: let the building do the marketing. For some context, the modules you've been through above lend themselves to marketing material on the front end (with a few little tweaks). The \"Compounding\" Module above translates into a Twitter thread that leverages the same text and visuals: Have a look at the whole thing here . The only difference, it ends with a call to action that speaks to the rest of the curriculum. \"If you thought this was valuable, I have another 3 dozen concepts just like this..\" That final tweet drives traffic to the product page, that delivers a ton of social proof and more detail on what to expect if you buy. In one week, that tweet storm that recycles content that I've already produced drove 900 clicks to the product page. At 1% conversion (conservative) that's 9 sales of a $297 product. $2,700 for doing a bit of recycling. Not too shabby. Let's take it one step further — this entire exercise is a perfect example of the sawdust principle. While I've been writing out this lesson, I've been recording my screen. Now I'll take that video, post it on Twitter and let current (and prospective) buyers know that the curriculum is being updated with some more proven lessons that are being extracted from my business in real-time. The above application is called Screenflow if you're after something lightweight to produce screen recordings. Writing this lesson isn't just a value add to students, it's proof of work, new marketing material, and additional content leverage.",
+            "video_url": null
+          },
+          {
+            "id": 70,
+            "title": "Interrupting Patterns",
+            "body": "I've been asked hundreds of times what I attribute the early growth of Visualize Value to. There are lots of factors, the reverse influence strategy, the consistency of output, the creative restraint, the borrowing and building on top of already great ideas. One huge thing, though — the ability to interrupt a pattern. Think of your average day scrolling through Twitter or instagram. Emulation everywhere. Same on Twitter. Monkey see, monkey do. In an endless stream of oversaturated lifestyle photos and predictable meme formats, a black canvas with a few white geometric shapes stops your thumb. Now this is not a recommendation to emulate a visual style (per se). It is a recommendation to experiment with ways to stop thumbs by doing something drastically different.",
+            "video_url": "https://www.youtube.com/embed/eE9QlnIYP_Q"
+          },
+          {
+            "id": 71,
+            "title": "Naming",
+            "body": "What's in a name? Names are incredibly powerful tools, and hugely overlooked by most creative people. We've covered the importance of language, but naming is a game unto itself. A name should contain both meaning and intrigue. Take \"Build Once, Sell Twice\" vs. \"Digital Marketing Course\" One is a specific and memorable phrase that points at an outcome, the other is generic, and I'd argue meaninglessly broad, which essentially means it's invisible. Just as musicians have a handful of memorable tracks that are responsible for the majority of their commercial success, the same is true in naming the assets you create as a digital entrepreneur. I sat down with David Perell to unpack the nuance in this idea:",
+            "video_url": "https://www.youtube.com/embed/XiEEY4aCrjc"
+          }
+        ]
+      },
+      {
+        "title": "The Plays (Selling)",
+        "lessons": [
+          {
+            "id": 72,
+            "title": "Selling Sawdust",
+            "body": "One of the fundamental ideas behind building reputation online is consistently generating proof of work. The beauty of this idea is that most people are already doing it (they're just not sharing it). Everything you do is valuable to two audiences: 1. Clients will trust that you can do it for them. 2. Customers will trust that you can teach them how to do it. The concept of selling sawdust is simply sharing the byproduct of your work. For example: In developing this course, I have written pages and pages of notes that will fuel front-end content for months, I'll expand one-line notes into emails, Twitter threads, and Office Hours content for the VV community. The fidelity of your ideas increases as you share them. A powerful idea by Marc Andreesen summarizes the value of proving yourself in public. You don't know what's going to resonate with your audience until you publish. If you build your audience on top of demonstrable proof, the path to product and service sales is frictionless. Example: Person x follows you because they are interested in you sharing how you're building your business. When you release a product that they can use to get a closer look at the nuance of your strategy, they're already bought in, you just need to collect the credit card details. Continually proving your ability to generate a result is what builds trust with your audience, and drives sales of your products and services. In the context of Visualize Value, sawdust is everything from repurposing presentations as front-end marketing assets : To sharing behind the scenes content of product development: Pictured: The VV 2019 Annual (now sold out) When you build your audience with transparency, you can sell with transparency.",
+            "video_url": "https://www.youtube.com/embed/BNPy7mAeA1w"
+          },
+          {
+            "id": 73,
+            "title": "Selling to Sellers",
+            "body": "For those accustomed to working for clients in a B2B capacity, our typical instinct when transitioning to building products is to make something for those same people. Not a terrible strategy by any means, but allow me to explain an alternative frame for expanding your opportunity. There is the market of the end client: People who can implement what they've learned in their business. \"Here are the tools to visualize your value proposition.\" And there is the market beyond the end client: People who can mark up what they've learned and sell it as a service. \"Here's how to help your clients visualize their value proposition.\" A small tweak in positioning expands your market massively. Why does this strategy work? It's why you're reading this sentence right now. In building content, documenting your journey, and \"selling your sawdust,\" you'll capture the attention of people who aspire to follow in your footsteps, giving you the opportunity to make product for those a few steps behind you. Here's a video to explain:",
+            "video_url": "https://www.youtube.com/embed/coUESeA4gOU"
+          },
+          {
+            "id": 74,
+            "title": "Organic Hype",
+            "body": "You get paid in direct proportion to your ability to generate attention and convert it to a sale. Below, I'm sharing the marketing frameworks that have driven huge results for Visualize Value products. As of today, we've spent $0 on paid ads and generated over $330,000 in digital product sales. Create Urgency In order to get people to act, run campaigns with limited variables (x number of people at price x, x number of days to buy x). Here's a short video breaking down a price raise campaign from earlier this year: Answer Questions in Public Take the questions you're asked frequently and write an explanation publicly - your engaged customers will back you up, creating an even more powerful asset to convert cold traffic. Early on, I would ask things like \" what do you need help with? \" or \" what are you struggling with? \" on VV's Instagram. I'd post the questions and answers to Instagram Story and found that always drove engagement. Plus, it was an authentic way to know who my audience was and what they needed, especially from me. Endorsements Let your customers do the marketing for you. Leverage what your customers say about your product into marketing assets. The \"Reverse\" Pitch Forcing your audience to consider the inverse proposition (don't take action if you don't want to experience x, y, and z...) Problem/Solution Talk very specifically about the problem your client faces (that your product solves), and position yourself as the answer. Permissionless Proof No client? No problem. Leverage culture to create examples of your output, approach, or thinking. You don't need permission, you just need proof. Case Studies Post social proof, on social networks, and get it endorsed by the clients that paid for it. Dynamite lead magnet. Transparency Be outrageously transparent about the success and failure of your business in order to build trust with your audience. Ask & Receive Build an engagement requirement into a promotion with an incentive for people to share/comment,",
+            "video_url": "https://www.youtube.com/embed/T3SRFtMmYjo"
+          },
+          {
+            "id": 75,
+            "title": "The Proof &amp; Price Loop",
+            "body": "Give it away until you have enough proof to sell it. 1. Get proof. 2. Get paid. 3. Get more proof. 4. Get paid more. Proof Loops: A strategy that has been instrumental in balancing the growth of sales and customer loyalty. Here's a video breaking it down:",
+            "video_url": "https://www.youtube.com/embed/tYy54k4xZmk"
+          },
+          {
+            "id": 76,
+            "title": "Extracting Proof",
+            "body": "Let your customers do your marketing. People trust other people, so your ability to get people to endorse your product will be a strong influence over your ability to sell. Asking for Proof Set up timed sequence to follow up with buyers of your products to ask them for their honest feedback. Recognise that people are busy. Respect their time by making a clear ask, and offering something in return. If they got value from your product, they'll leave you a nice review: Follow up and say thank you, build deeper relationships. Then, identify people who left a particularly glowing review, ask them an additional favor, and offer something even more valuable for their time. Another example: Rewarding your customers for acting quickly: In launching another course designed specifically to get people to take action, we worked a thematic reward into an email (however, this would work on any platform): Tee up the product, provide some visual reference. Then, add some context and provide social proof: (We manually reached out to beta testers to get early feedback) Then (as demonstrated above) create an incentive to respond — this is a $49 course, not designed to be a huge profit center for us, but more of an on ramp to the VV curriculum in general. Losing $24.50 on one purchase in exchange for a happy future customer and a solid review is an incredible investment for us: 24 hours later we have fifteen new 5 star reviews we can go back to the market with.",
+            "video_url": null
+          },
+          {
+            "id": 77,
+            "title": "Justifying Your Prices",
+            "body": "A simple rule of thumb for pricing products and services: At this price point, can my customer get a 10x return on this investment? If you really want to stress-test your products, try 100x. Is a $19 PDF that helps people structure their day good for $1,900 of value over the course of a lifetime? Sure. If it helps someone land a new job, develop a new habit that keeps them healthy, pursue knowledge that increases the value of their business. Can you build a $99 course that teaches the skills to make $10,000? Of course . Anything that increases earning power is a worthwhile investment. Can you make a $499 curriculum that teaches principles that can be leveraged into $50,000 of income? If you implement what we've covered here, and divorce your time from your money, your ability to earn is no longer constrained by the hours in the day, but your ability to scale your reputation & network. Can a $20,000 investment in precisely articulating the message of a business deliver $2,000,000 of new contracts/sales/growth? A single enterprise-scale engagement can net a 100x return on a $20,000 story. It happens every day. Get paid for what you've already paid for A lot of people with plenty to offer suffer from undercharging for their work. \"If it's not costing me anything to sell, or I'm not turning up in person to deliver it, I feel uncomfortable charging more than $x.\" You're forgetting three things: It cost you a fortune to learn it. (You paid in time, which no one can reimburse you for.) What you charge is a proclamation of how much you believe in your product. (And yourself.) It's more difficult to produce a product that can deliver a result without you. The variables that you must take into account to ensure your customer experiences the transformation you intend is a significant and challenging undertaking.",
+            "video_url": null
+          },
+          {
+            "id": 78,
+            "title": "Responding to Negative Feedback",
+            "body": "OK my friends, here's something that we don't want to think about, but we must. What if people don't like my stuff? Nothing you build is going to be for everyone. Absolutely nothing. Should you take negative feedback into account? Absolutely. Should you iterate based on negative feedback? Absolutely. Should it stop you in your tracks and make you reconsider your every decision? Absolutely not. Much like we talked about in the other modules here, transparency is your friend. Here's a real example (I am writing this module the day we received this review): My first thought? This sucks. I hate that somebody had that experience and want to make it right immediately, so we issue a refund and reach out personally to apologize. But our lesson doesn't end there. This horrible feeling is something that lots of people have experienced, or are scared of experiencing. Transparency has served us so well,",
+            "video_url": null
+          }
+        ]
+      },
+      {
+        "title": "Start Playing",
+        "lessons": [
+          {
+            "id": 79,
+            "title": "Assuring Victory",
+            "body": "OK my friend. In the words of the great Aristotle: \"Tell them what you are going to tell them, tell them, then tell them what you told them.\" Here's the part where I tell you what I told you: You don't need permission to prove yourself. No one cares what you can do, everyone cares what you can do for them. Your connection with the market is just as important as the quality of your product. Figure out a way to be valuable first, then figure out a way to scale that value into a product that works without you. You can create value by doing things that other people don't want to do ($), won't do ($$), or can't do ($$$). Build products and services that make people feel more confident, help them make a better living, and help them fix a specific problem. Promote yourself by proving yourself. If you do great work in public, you will eventually get what you deserve. Not only that, but the very act of working in public will increase the quality of your output. The better your work, the better your inbound clients, the more loyal your customers, and the stronger your network. Get people interested, inundate them with value, charge 10x less than what your products are \"worth\" when implemented. If you constantly deliver value, your reputation should always be worth more than the amount of capital you extract from the market at any given time - your long-term returns are assured if you create more value than you extract. Focus (timestamp 2 hours 1 minute):",
+            "video_url": "https://www.youtube.com/embed/09JD_ZTCKds"
+          },
+          {
+            "id": 80,
+            "title": "So What Now?",
+            "body": "Lots of information, and an infinite number of possibilities of what to start working on. Allow me to simplify your options: Internet native products fall in two very simple categories: Code, and media. Both can be augmented by labor (a service component), or run largely independently. You can write code to perform a task (or set of tasks). Or you can create media to communicate something repeatedly. We intentionally leave out a specific prescription as a next step (because that would defeat the entire purpose, and have you competing against your fellow students in a race to the bottom). As we’ve highlighted in the modules above, this is a game of iteration — the Visualize Value business still operates in a mixture of the above categories. We slowly transitioned to a more leveraged model by paying attention to the recurring problems we were solving as consultants, building distribution through social media, and automating fulfillment with software. Make noise, listen for signal. All of the principles in this course are designed to arm you with the perspective to spot and capitalize on opportunity, or to build new skills with these mental models already installed.",
+            "video_url": null
+          },
+          {
+            "id": 81,
+            "title": "New Lesson",
+            "body": "",
+            "video_url": null
+          }
+        ]
+      },
+      {
+        "title": "web3",
+        "lessons": [
+          {
+            "id": 82,
+            "title": "New Lesson",
+            "body": "",
+            "video_url": null
+          }
+        ]
+      },
+      {
+        "title": "Requests",
+        "lessons": [
+          {
+            "id": 83,
+            "title": "Ready to go?",
+            "body": "You made it. Well done, and thank you! Did we cover everything? Something you'd like more clarity on? If you'd like to share, please provide as much context to your situation so we can ensure we make updates that address your specific needs. Feel free to copy and complete the below template, or write freestyle: Experience: Beginning / Building / Scaling (delete as appropriate) What was most useful? What did you expect to see that wasn't included? If you're not ready to get started, why not? Your feedback is massively valuable and we appreciate your investment. Thank you, Jack & Celia.",
+            "video_url": null
+          }
+        ]
+      },
+      {
+        "title": "Real-time Product Launch Case Study",
+        "lessons": [
+          {
+            "id": 84,
+            "title": "Identifying an Idea",
+            "body": "\"How to Visualize Value.\" \"Build Once, Sell Twice.\" Both of these concepts are products of experience that has already been deployed. In both cases, publishing free content on social was the mechanism for consistently demonstrating the value of each idea, and identifying demand for a transformation that the market would pay for. For How to Visualize Value — \"I want to be able to communicate my ideas visually.\" For Build Once, Sell Twice — \"I want to be able to divorce my time and income by building and selling digital assets.\" Earlier in the curriculum, we explored the concept of content as a vehicle for discovering demand, a low-cost way to understand what the market craves. Enter: \"The Permissionless Apprenticeship\" Here's how to think about it at a high level: 1. Creator-market fit. (what you like) 2. Content-market fit. (what you make) 3. Product-market fit. (what you sell) In this module, we'll walk through the entire journey above, in the context of a completely new product: The Permissionless Apprenticeship.",
+            "video_url": null
+          },
+          {
+            "id": 85,
+            "title": "Validating your Idea",
+            "body": "To simplify the process of getting buy-in for a product idea like The Permissionless Apprenticeship, you can think about it in two ways. Passive and active. Passive buy-in is anecdotal, traction on the free content you're producing. Not an exact science, but definitely measurable by the interest it receives on the front end. The Permissionless Apprenticeship was an idea I discussed with Matthew Kobach on an Instagram live, in response to his question: \"What advice do you have for people who want to get noticed on the internet?\" My answer: \"Start a Permissionless Apprenticeship\" Matthews interest in the idea encouraged me to publish more context, going into specifics on how to leverage this idea ( you can read it here ) Some more evidence of this idea being leveraged popped up in different places on the internet emerged in the weeks following our conversation: So, in summary, one conversation and one Twitter thread produced enough signal to warrant further exploration. It's clear the idea was resonating at a high level, but there's so much more depth to it that could easily translate to a product for people looking to pursue this path.",
+            "video_url": null
+          },
+          {
+            "id": 86,
+            "title": "Sell Before you Build",
+            "body": "If you're on Twitter, which I'd guess most of you reading this are — you may have seen me promote the beginning of turning this idea into a product publicly. Here it is: Now the idea of \"selling\" isn't always \"buy this now\" — often it's just a nudge: \"this thing will be available soon, if you're interested, watch this space.\" As you build out the curriculum, the ideas you're codifying will translate well into social assets that can make subtle (or not so subtle) references to the product you're working on.",
+            "video_url": null
+          },
+          {
+            "id": 87,
+            "title": "Sell While you Build",
+            "body": "",
+            "video_url": null
+          },
+          {
+            "id": 88,
+            "title": "Leverage Work You've Already Done",
+            "body": "",
+            "video_url": null
+          },
+          {
+            "id": 89,
+            "title": "Structuring your Product",
+            "body": "",
+            "video_url": null
+          },
+          {
+            "id": 90,
+            "title": "Maintaining Post-Launch Momentum",
+            "body": "",
+            "video_url": null
+          }
+        ]
+      },
+      {
+        "title": "VV Tech Stack",
+        "lessons": [
+          {
+            "id": 91,
+            "title": "MightyNetworks (Curriculum &amp; Community)",
+            "body": "Mighty Networks is the platform you're reading this on. We use Mighty Networks to structure and deliver all Visualize Value training: Why we love it: - Flexible lesson formats (mixed media text/video/image) - Member segmentation (by training program) - Shared newsfeed (for updates) - Places to put content outside of curriculum - Competitively priced (starts at $33, we pay $99/mo) - iOS native mobile application - Privacy configuration I also love the ability to draft a curriculum by naming sections and lessons and dragging them around until it feels like the lesson arc is right. Before creating any of the material, you can get a feel for the flow of the curriculum, and build from there. You can choose to bill natively and manage payments through the platform, but we have opted for Shopify on the front end for a couple of reasons: One, because we have other types of product (Tools, Merch, Art) Two, because it integrates with the rest of our technology stack more seamlessly. (Maintain a single customer list, use Shopify plugins to gather feedback post purchase, etc) Try Mighty Networks .",
+            "video_url": null
+          },
+          {
+            "id": 92,
+            "title": "ConvertKit (Make Money with Emails)",
+            "body": "We've tried a number of email marketing platforms with varying degrees of success. Klayvio (too complicated Mailchimp (too simple) ConvertKit (just right) Why we love it: - Shopify integration (see who bought what and filter/segment) - Build simple landing pages for email campaigns - Sell digital products (subscriptions or one off basis) - Cheaper than most other alternatives at scale Like any good email platform, you can build sequences to run automatically based on any trigger you specify. Things like: Email opt-in Product purchased Has product X but not Y Opens every email Customer since x date Lifetime spend > x Just scrolling through the filtering and segmentation prompts interesting creative angles. To get into some specifics, we use it for The Leveraged Creator : a 10 part-email sequence that introduces people to the Visualize Value brand and the philosophies that build it. We also use it to send one-off emails, like this promotion for Compound Content : The product is now hosted on Shopify, but ConvertKit is a great solution for hosting digital products natively too. You can spin up a punchy landing page in a matter of minutes: All of these features are backed by really clean analytics at both the platform and the campaign level: A point worth bringing up from the above that you must internalize to make it past your first few reps in the email game: The only people who don't lose subscribers are the people who don't send emails. ConvertKit is a free platform up to 300 subscribers, then pricing is tiered based on number of subscribers from there. Try it here.",
+            "video_url": null
+          },
+          {
+            "id": 93,
+            "title": "Hypefury (Content Scheduling)",
+            "body": "The platform we use to manage content scheduling, review numbers, and get writing inspiration: Hypefury Why we love it: - Set and forget - Tweet analytics - Writing prompts - Auto-retweet features - Cross-platform (LinkedIn, Instagram) - $15/mo — $40/mo",
+            "video_url": null
+          },
+          {
+            "id": 94,
+            "title": "Minimal Twitter",
+            "body": "This Chrome Extension will turn your Twitter experience into a rage-free, dopamine-limiting endeavor. Remove notification tabs, trending topics, and all other shiny objects. Can't recommend it enough. Built by VV community member Thomas Wang .",
+            "video_url": null
+          },
+          {
+            "id": 95,
+            "title": "Shopify (Commerce)",
+            "body": "Shopify does a lot of heavy lifting for us. It's where we sell almost everything we make. One of the simplest plug-and-play commerce solutions on the market, endlessly customizable w/ various plugins. - Sky Pilot (enabling digital downloads) - Product reviews (collecting social proof) -",
+            "video_url": null
+          }
+        ]
+      }
+    ]
+  },
+  "the-permissionless-apprentice": {
+    "title": "Permissionless Apprentice",
+    "description": "",
+    "free": true,
+    "modules": [
+      {
+        "title": "Philosophy",
+        "lessons": [
+          {
+            "id": 96,
+            "title": "Arbitrage",
+            "body": "Let's start with a simple concept: Arbitrage makes the world go round. Let's begin by cementing the idea that your ability to identify and act upon arbitrage opportunities is the single highest leverage skill that underlies the premise of value creation itself. It will define what you do, how you do it, and the results you ultimately generate. If you view your career through this lens, you will spot things other people miss, try things other people won't try, and make money other people won't make. So what is arbitrage? The traditional definition: \"Arbitrage is the purchase and sale of an asset in order to profit from a difference in the asset's price between markets.\" The reframe I'm offering: \"Arbitrage is the difference between what you can do and what someone else can't, won't, or doesn't do.\" You capture value by demonstrating your ability to do something for someone that they didn't know was possible (until you make it abundantly clear by showing them, which is what this workshop is all about). In my observation, people who succeed in continually upgrading their ability to spot and capitalize on arbitrage, view this process as a ladder: We all start at the bottom, and climb. Please enjoy an excerpt from my favorite movie to drive the point home a little further. (Explicit language warning)",
+            "video_url": "https://www.youtube.com/embed/DVYHjEeYGFA"
+          },
+          {
+            "id": 97,
+            "title": "The Internet is Big",
+            "body": "The size and reach of the internet is astronomical. 4.5 billion of us have access. And in a few billion of those cases, the internet grants every individual the ability to watch anything they want, whenever they want, order almost anything they want, almost anywhere they are, and get in touch with almost anyone. Access is not the problem, you can knock on any door you like. Having something valuable to offer is the key. How often do you get a Linkedin Message that looks like it was sent by a bot, talking about a completely different industry? How often do you get a Cold Email that offers a service completely unrelated to what you do? How often does your Google search return an absolutely useless page of information? Have you ever answered your phone to an offer for a product you have absolutely no interest in? This is how much of the world operates. The bar is low, which means there is a simple (not easy) path to shattering the expectations set by the tens of millions of lazy participants that take this incredible opportunity for granted. For context, in 2020, every minute: • 3.8 million Google searches happen • 350,000 Tweets are published • 150,000 Emails are sent • 1,800 Wordpress Blogs are created • 500 Hours of content are uploaded to Youtube \"But the internet is saturated!\" No, your market is expanding. Where some see scale as a deterrent, you’ll learn to see opportunity. Yes, there is a lot of competition — but for you (having demonstrated your motivation by purchasing this course), the opportunity is astounding. See this passage from \"The Sovereign Individual,\" predicting our current reality back in 1997:",
+            "video_url": null
+          },
+          {
+            "id": 98,
+            "title": "What is a Permissionless Apprentice?",
+            "body": "Let’s start with the definition of apprenticeship: “A person who works for another in order to learn a trade.” Apprenticeships are more commonly associated with the physical trades: electricians, plumbers, bricklayers, etc. Which of the following sounds like the fastest way to learn how to fix a toilet? Go to toilet fixing lectures and remember passages from toilet-fixing textbooks. Spend time around people who fix toilets and fix some toilets. First, I would like to warn you in advance that we’ll be coming back to some brutally obvious concepts throughout this workshop, but I promise it’s for all of our own good. So, let’s get into it. Things you don’t need: Permission Certification Six-figure tuition Things you do need: Patience Practice Skill Consistency “Information is abundant, it’s the desire to learn that’s scarce.” — Naval Ravikant The people and businesses that we really want to work with (or for) are spending time doing the things we admire them for. That’s why we admire them. It’s also why we need to lead with a surplus of value to get in touch with them. But how do you become an apprentice without a network or a reputation? Answer: The Internet. We’ll get into this more later, but the internet has created a seismic shift in the way talent is discovered at every level. Geography is no longer a barrier. So why the apprenticeship model? Because it makes you valuable to people that have a problem. The leading indicator of happiness is not money, but meaningful work. Don’t get me wrong - money is great, but how we earn it becomes much more important than how much we earn (once we’re past the threshold of meeting our basic needs.) On top of this model being a more direct route to opportunity, most traditional educational paths are either already, or are becoming economically unviable: University X: \"Memorize this and we'll give you a certificate that confirms you memorized it, you owe us $xxx,xxx.\" In the U.S., that number is above $ 42,000 for one year. Compa",
+            "video_url": null
+          },
+          {
+            "id": 99,
+            "title": "Portfolios Over Posturing",
+            "body": "No one cares what you can do, everyone cares what you can do for them. The thing I learned very early in my career is that no one cared about my degree. They just wanted to see my portfolio. But if I were to start over, I’d do things a little differently. The projects in my portfolio weren’t self-directed, they were assignments given to me from a templated curriculum. Did they communicate my unique interests? No. Did they communicate my unique ability? Not really. In my case, the work I’d done was intended to convince a would-be-employer that I can handle whatever random project is thrown at me. There’s a word for that: a generalist. The world is different now. You can build a very healthy business making YouTube thumbnails if you’re so inclined. Think someone could be doing a better job of x? Don’t tell them, show them. The projects in your portfolio are assets that will continue to deliver value long after the time you spent building them. Let’s get tangible for a second. Two candidates show up for a job interview. One just graduated from a good school and has a self-proclaimed “good work ethic.” (Despite never having had a job.) The other put together a pitch to explain a new way to frame your value proposition to your enterprise prospects. Which one is getting the job? Working independently works exactly the same way. Except there are millions of people hiring at all times. If your favorite podcaster keeps posting episodes with messed up levels, send them a fixed version. Your favorite writer's website is awful? Rebuild it and send it to them. A community you're a part of is doing a bad job of capturing social proof? Interview 10 members and send them finished marketing assets. Last thing you need? A place to put proof. Writing? Blog about your process and untangle how you solve problems, tweet your best insights and write emails that reflect on your progress each week. Making things? Publish your permissionless projects, document your work in progress. Use a po",
+            "video_url": null
+          },
+          {
+            "id": 100,
+            "title": "Pay Me in Proof",
+            "body": "When you're just getting started, it is important to think about the many forms of payment that will far exceed the value of cash over the long-term. Social proof Experience Proof of work Network Here's an idea for generating social proof: Let's say your permissionless project is to start editing and publishing video highlights from your favorite podcast, you send three clips over to the host with a short message: \"Hey X, I'm a huge fan of your podcast. Your interview with X inspired me to start _____, thank you. As a gesture of thanks for all of the value you've provided me, I put together these 5 short highlight clips from your conversation with _____. Feel free to use them however you'd like. I think there are a huge number of people missing out on your teachings and these short-form assets would be a great way to entice them to your YouTube channel. If you're interested, I'd be happy to do this for free for your 5 favorite episodes, my only ask — if you find value in my work, would you be willing to record a short testimonial?\" This isn't going to work every time, but every time you try, you build another set of assets that increases your skillset as a practitioner, and adds to the library of proof you're building when you have the next conversation. The proof (when you get it) will function as leverage for winning new business, but it's just as valuable of a tool in building up belief in yourself.",
+            "video_url": null
+          },
+          {
+            "id": 101,
+            "title": "Do The Work First",
+            "body": "How do you make connections with people whose time is valuable? By clearly articulating your ability. By clearly articulating their upside. More attention on their work? Upside Doing something you saw them ask for? Upside . Building them a tool that saves them time? Upside Introducing them to someone that can help them? Upside Showing them a specific untapped opportunity? Upside The most common mistake here is to ask for permission to do the thing before you do it. In that scenario, you're making someone work for you, not the other way around. Whatever it is you’re proposing you do, it adds value to you first. It becomes an asset you can leverage. Very few people will give you permission to do something when they have no idea who you are or what you're capable of. So just do it, and show them. Even if they don't see it, here's what happens: You force yourself to think You force yourself to solve problems You force yourself to publish You force yourself to improve You force yourself to build a portfolio of work Now you have a way to communicate your assets in your next pitch",
+            "video_url": null
+          },
+          {
+            "id": 102,
+            "title": "Open Networks",
+            "body": "At the time of writing, there is no platform more powerful to execute this strategy than Twitter. Build a resume of \"how you think\" Solve problems with full transparency Grow a network of people interested in the above It’s not the only way, but I’d like to share a few thoughts as to why I think it’s a powerful tool for multiplying your opportunity. Think of your feed as a real-time documentation of your evolution as a practitioner — forget PDF resumes and exaggerated LinkedIn headlines, Twitter is a window into how you think, what you make, and who you are connected with as a result. Twitter acts as a voting machine for ideas - your feed is living, breathing proof-of-work. One huge caveat: The commonplace \"growth tactics\" for Twitter (setting notifications to comment derivatively on accounts larger than yours) are a waste of everyone's time. They are hurting you more than they are helping you. Nine times out of ten, it's not an original or additive thought - 1% insight, but 99% desperation. Don't do it. Here's a way to think about it: If you were having a conversation in a restaurant, would you instantly respond to a statement someone made by rephrasing it slightly? When in doubt, act like a human being. A better frame: Twitter lets you publish a portfolio of your work and thinking while taking advantage of massive network effects. An incredible platform for documenting your process and connecting with people who need what you do, or want to learn how to do it.",
+            "video_url": null
+          },
+          {
+            "id": 103,
+            "title": "Failsafe",
+            "body": "How can we ensure we win even if no one sees or responds to our work? If it's making us better. How do we know if it's making us better? You just do, it’s an objective process. (You get faster, it gets easier) The market will tell you. (More positive feedback) This feedback loop works best when driven by a personal desire: \"I want access to brilliant people, so I started a podcast.\" \"I want to be a better designer, so I publish every day.\" \"I want to be a better writer, so I write every day.\" Before any of this process leads to a transaction of some kind, proving your ability to be consistent to both yourself and the market (especially in the early days without a dopamine feedback loop) — is an enormous win and should be celebrated as such. Ask yourself: What's in it for me? Even if no one responds (highly unlikely), you're still winning. Think of yourself as an early investor in an asset class that is not yet publicly traded. It's your job to increase the value of the asset in order to attract investment from other people.",
+            "video_url": null
+          },
+          {
+            "id": 104,
+            "title": "Diversification through Concentration",
+            "body": "The concept of a “niche” is counterintuitive to us. How do you create more opportunity by serving fewer people? Allow me to hit you with a reframe. The act of concentration produces far more potential upside. \"Build a Personal Monopoly: A unique intersection of skills, interests, and personality traits that make you one-of-a-kind.\" — David Perell Let’s say you’re a medical student interested in venture capital: You turn a 100-page medical white paper into short, engaging blog posts that explain the societal and financial impact of medical advancements. Your market becomes anyone who writes white papers and wants more eyes on their work, and ultimately more funding (which is everyone who writes white papers). A pool of 100 people that need exactly what you do outweighs 10,000 indifferent spectators. And by leveraging network effects, getting in front of one of the right people means getting in front of hundreds more. When this strategy works, your work is amplified among the peer group of the person/business/industry you didn't ask permission from in the first place. The reality of this situation is when you really have what you can do for people dialed in, you don’t need 100 people to make an amazing living. 5 businesses paying you $2,000 a month is a $120,000 annual income.",
+            "video_url": null
+          },
+          {
+            "id": 105,
+            "title": "Good Faith",
+            "body": "An enormous amount of business is done (and eventually undone) on good faith. How many times have you been disappointed in the disconnect between what has been marketed, and what you end up receiving? It’s happened to me more times than I can count. We want things to work out, and we place trust (often almost blindly) in people who tell us they have the answer. You can go a step further here by showing people the answer. This is another core principle of the Permissionless Apprentice approach — once you know this to be true, all you need to do is start making things. Remember having to \"show your work\" at school? The same rule applies. Anyone can Google, copy or memorize the answer, but the person who understands the answer is who you want on your team. It generates instant credibility, whether directed at an individual opportunity or used as an asset to prove your ability in general. \"Show me, don't tell me.\" If someone can read your essays, watch your videos, use your software, listen to your podcast, read your tweets, you're able to build your reputation globally, 24/7. When we promote Visualize Value consulting services, we leverage proof of our previous projects to win the trust of our prospective clients: I've published thousands and thousands of Visualize Value images, published dozens of videos explaining concepts in more detail, and shared the process transparently on Twitter throughout. Before I figured out VV, I built personal portfolio websites, shared work on sites like Dribbble , wrote and published blog posts (over 13 years ago) that you are probably going to be the first people to ever read.",
+            "video_url": null
+          },
+          {
+            "id": 106,
+            "title": "Consensual Collaboration",
+            "body": "A short but important lesson in this process is to understand the nuance of adding value in a collaborative way. In some cases, publishing without permission is appropriate, in others, offering feedback and a solution in private will generate a far better reception, and ultimately - a more positive result for everyone involved. This course update was inspired by Pim Ruhe , a member of the Visualize Value community, who phrased it as follows: I had a discussion with a roommate who always jokingly refers to this concept as “non-consensual apprenticeship”. In the end we agreed on: “act before you ask” is always a good idea, but “publish before you ask” might not always be desirable. The best version sounds like: “Act, then ask”. But I haven’t made up my mind about this. What are your thoughts on that? And might it be a nice to say something about it? After some reflection, I agree (in most cases) — and like many of the principles we're discussing here, context should always be considered. If you're calling out a flaw in someone's business model, making material changes to something that would have far-reaching implications, email is likely a better route than blasting them on Twitter. There are exceptions to this rule too, in the same way that referencing someone's work in a complimentary way rarely requires explicit permission. As is the case with most decisions, put yourself in the shoes of the recipient and consider how they'll interpret your efforts before you hit send. It's very easy to sort a genuine attempt to add value from a hollow attempt to gain momentary exposure.",
+            "video_url": null
+          },
+          {
+            "id": 107,
+            "title": "Probabilities over Expectations",
+            "body": "All of this information is useless if we exclude one simple mental shift. That simple shift is this: Thinking in probabilities, not expectations. It’s the difference between: “If I do this, x will happen.” (expectation) And “If I do this, there's a higher chance x (or something similar to x) will happen.” (probability) Continually falling short of our expectations is a demoralizing process. That’s because expectations set a binary outcome — we either accomplish something, or we fail. The truth is less simple. That’s where probabilities come in. Even if we don’t take home the prize, progress is almost always made towards it. If we can reframe our efforts as the price we pay to increase the probability, we’re always increasing the odds of success. It's also worth mentioning, these are easy lessons to write in hindsight.",
+            "video_url": null
+          },
+          {
+            "id": 108,
+            "title": "Experience Arbitrage",
+            "body": "One more concept to internalize: In the age of the internet, unique perspective is scarcer than ever. People are hard-wired to imitate what others do, the internet tends to bundle the most popular thing and deliver it to everyone at the same time. We also must be careful to avoid \" niche for the sake of niche \"— scarce is not always valuable and vice versa. But the point remains: You can't add anything different if you haven't done anything different. Executing on this insight can take many forms, but layer any of the below with some curiosity and you can't help but expand your frame: - Meeting new people - Asking more questions - Working unusual jobs - Geographic and cultural exposure (in person and through media) - Consuming media other people rarely consume It's largely about calculated risk and trust. The risk part: doing something when you don't know what's going to happen in advance, and trading your time to find out. The trust part: knowing that you will learn something either way. Nothing here is the answer, but all of it should lead to better questions.",
+            "video_url": null
+          }
+        ]
+      },
+      {
+        "title": "Case Studies",
+        "lessons": [
+          {
+            "id": 109,
+            "title": "Acting Without Permission",
+            "body": "There is no one-size-fits-all answer or playbook for permissionless acts. The magic of this approach is that you can apply this philosophy to any industry, goal, company, or person. To give you some inspiration, here are some quick examples before diving into specific case studies: Applying for Jobs Most people apply for jobs using standard resumes and LinkedIn messaging. Jacob Cohen recreated his job application for The Hustle in the email newsletter's daily format. His application landed him a writing gig. Austin Rief , COO and Co-Founder of Morning Brew, called this the best job pitch he ever received: Alexander Shatov created 3D logos for some of his favorite brands and creators. He shared his work on Twitter, tagging the relevant accounts. It not only led to retweets, but also a future job with Traf. Cold Emails Most people put too much work on the recipient when sending a cold email. There isn't a clear ask, it is too long, and it isn't personal. Nik made a clear and easy ask, and grabbed attention with his subject line. Project Contributions Listen for signal and take action. Jack offered up his Visualize Value graphics to Eric Jorgenson for his book, The Almanack of Naval, without expectation or request. The end result was a collaboration on the book. Ryan Doyle created Free Sales Advice Friday as a way to give back to the Visualize Value membership. He began this initiative purely to help business owners and see what they were working on - he'd offer scrappy tactics and advice. \"Some of the best help I've received online, thank you.\" — Jordan G. \"That is superb advice.\" — Andy W. \"Ryan, this thread is gold!\" — Ben F. After months of doing this, he collected social proof and learned that builders cared about how he approached sales. As a result, Ryan created a product of his own. Building in Public It takes courage to share and build in public. And, more times than not, it will be rewarded. People are intrigued and want to support others. Blake Emal shared h",
+            "video_url": null
+          },
+          {
+            "id": 110,
+            "title": "Permissionless Job Search (@ninamufleh)",
+            "body": "In 2015, Nina Mufleh wanted to work at Airbnb. After months of struggling to even get an interview, she decided to take another approach. The traditional path clearly wasn't working. Nina opted to revamp her resumé as an Airbnb profile . She highlighted the opportunity that Airbnb was missing in the Middle East, creating a detailed report on the extent of the problem, potential solutions, and how she could play a role. Nina invested about a week of her time on this project - obtaining the data, coordinating the design, and researching the market. The resumé worked, going viral on Twitter, and garnering the attention of the CEO and CMO of Airbnb, landing her an interview within a week. By taking action, Nina shortened her job hunt from months to days. By the time Nina had finished her interview with Airbnb, she also had interview offers from Uber, Upwork, and many VC firms impressed with her research and creativity. Nina on Twitter.",
+            "video_url": null
+          },
+          {
+            "id": 111,
+            "title": "Permissionless Startup (@igorlenterman)",
+            "body": "Igor Lenteman raised over $1 million to build a new search engine - an idea generated from an act of permissionless apprenticeship. Igor was listening for signal. It all started with a tweet from Balaji Srinivasan, the former CTO at Coinbase and General Partner at Andreessen Horowitz. Igor saw the opportunity to create a project and dedicated his weekend to building a working prototype, realizing he would have to deliver more than a basic script that others who saw the Tweet may create. He recruited two other people and launched a functional web app before sharing on Twitter and tagging Balaji. Almost immediately, Balaji sent Igor a Twitter DM and they had a 2-hour private phone call. Igor and Balaji collaborated on a 9-page document on what the prototype could become. Balaji wanted to keep it open source and built on top of Roam, where he was an investor, but Igor saw a bigger opportunity to change how search operated. This became the groundwork for \"Atomic Search,\" a new startup to \"rebuild internet search with knowledge graphs,\" that recently closed over a $1 million round led by Josh Buckley, the CEO of Product Hunt. We spent an hour with Igor to get the full story:",
+            "video_url": "https://www.youtube.com/embed/rAemn7m2aa4"
+          },
+          {
+            "id": 112,
+            "title": "Permissionless Product (@traf)",
+            "body": "\"Resumés are insufficient, they are like a history of your failures\" — James Traf Traf applied for a job at cryptocurrency company Exodus. Instead of submitting his cover letter, resumé, and design portfolio, h e built them a new website. He was offered the job. Plot twist: He didn't take the job. \"But all that work he did was a waste of time!\" — Permission Seekers No, it wasn't. The site became an asset in his portfolio, a magnet for new business, and a template he can modify for new projects. The \"unofficial redesign\" is a strategy that extends beyond the world of design. If you think something can be done better, just do it. Don't wait for someone to ask you - they won't. Here's an Interview with Traf where he breaks down his journey: Permissionless Network Effects: Traf's permissionless mentality and ability to spot (and act on) opportunity translated to a spur-of-the-moment project earlier this year that resulted in hundreds of thousands of dollars of sales, and the enormous growth of his network. The Story: https://tr.af/6 The Product: https://icons.tr.af/ Follow Traf on Twitter .",
+            "video_url": "https://www.youtube.com/embed/fRxCHqVm26M"
+          },
+          {
+            "id": 113,
+            "title": "Permissionless Planning (@optemization)",
+            "body": "Tem combines his unique interests and abilities (productivity, nocode, and automation) in building his brand Optemization. Optemization helps busy people and businesses streamline their time management and internal processes. To grow Optemization, Tem shares the ups and downs of the business transparently, consistently publishes proof of work, and undertakes projects without permission. The recipe is very simple: Tem has figured out how to combine what he's good at with what benefits other people: All he has to do to attract opportunity is share the process. The tweet below is an example of a Permissionless Project Tem undertook to prove the value of his services in public: He did not wait for permission, diving straight in and upgrading the template, documenting it over Loom, and sharing it on Twitter. Let's break down the importance of each step: Upgrading the template: This action primarily benefits Kevin, who gets an upgraded product but it also exhibits Tem's Notion proficiency and encourages Kevin to distribute it. Sharing the Loom video: Recording the work you're already doing creates proof of work at very little extra cost. Proving your ability as a practitioner will build trust in your ability to deliver quality product. Posting on Twitter: The network effect. Tem's followers get a video to understand Tem’s process in real-time, Kevin gets an upgraded template for his followers. Positive-sum game. This process of iterating publicly drives traffic to Tem's landing page: optemization.com Follow Tem's journey on Twitter here .",
+            "video_url": null
+          },
+          {
+            "id": 114,
+            "title": "Permissionless Publishing (@ericjorgenson)",
+            "body": "A decade ago, publishing and distributing a book \"without permission\" from a publisher would likely mean filling your garage with boxes of books and driving around begging retailers to buy 50 copies from you. Not any more. This story from our friend and collaborator, Eric Jorgenson, is proof: Eric used Twitter to vet his half-baked idea of compiling a book of Naval's content. The next day, he woke up to 3,259 people thinking he should write the book. Naval gave his public approval by retweeting Eric's Tweet and offering to share all relevant material. Eric worked in public and would continue to update his audience on progress as he went. In doing this work publicly, Eric received unsolicited help and support from others. He got alpha readers without even asking. Another tweet of Eric's got him in touch with Tucker Max, a publisher: 2 years later, Eric is the author of a #1 bestseller. Jack interviewed Eric to dig into the process in this video: You can read Eric's full blog post on the process here . If you haven't already, get your copy of Navalmanack .",
+            "video_url": "https://www.youtube.com/embed/XZgC3DOMuWc"
+          },
+          {
+            "id": 115,
+            "title": "Permissionless Profiles (@polina_marinova)",
+            "body": "This next case study is a fantastic example of the exponential potential of working in public, leading with value, and leveraging open networks: Polina Marinova Pompliano studies the world's most interesting people and companies for her media company The Profile . Polina researches, crafts and publishes these in-depth profiles herself, and leverages the Substack platform to own (and monetize) the relationship with her audience directly: “I read 1.8 million words last year, which is the equivalent to 25 books. I did that in the name of finding interesting, well-reported profiles worthy of inclusion in The Profile. I always ask myself one question, “Will the reader learn something from this?” If the answer is no, I don’t include it.” These articles go out to thousands of subscribers every Sunday (but like every other media entity on the planet, The Profile started at zero). One of her recent features: Dwayne \"The Rock\" Johnson . Polina does an excellent job of leveraging her work across platforms — below, you can see the highlights of the article translated into a Twitter thread : Shortly after, Polina gets a Retweet (and glowing endorsement) from The Rock himself (15,000,000 Twitter Followers): Polina kindly provided insight into the numbers behind such an endorsement: Shortly after that, a repost to his 210,000,000 followers on Instagram: Polina's business operates on a subscription model (I am a paid subscriber and recommend the investment), and like all internet businesses, this kind of traffic-generating organic endorsement is the absolute holy grail. If you're not already following Polina, here you go .",
+            "video_url": null
+          }
+        ]
+      },
+      {
+        "title": "Let's Go",
+        "lessons": [
+          {
+            "id": 116,
+            "title": "Build What's Missing",
+            "body": "Paul Graham has a great quote on how to identify and act upon opportunity: \"Live in the future and build what's missing.\" We can apply this model to our search for permissionless projects. What's common practice in one industry but unheard of in another? What can you do to increase the reach and resonance of someone else's message? How often do you run into a problem with someone's product that you could suggest an easy fix for? How would you want to be approached by someone looking for you to hire them? Keep that in mind when positioning your own services. One of the largest blind spots we have is confusing enthusiasm with usefulness. Wanting to help is not the same as being able to help. Most of us don't know what's missing because no one else has shown us. That's all the Permissionless Apprenticeship is. Figure out what's missing, make it and show people.",
+            "video_url": null
+          },
+          {
+            "id": 117,
+            "title": "Make Upside",
+            "body": "I can't count the number of emails and DMs we have received from people asking to work at Visualize Value. Most of them even offering to work for free. But, 99% of them still put me to work. \"How can I help you?\" (I don't know) \"Are you hiring?\" (It depends) \"Can I be an intern?\" (It depends) I can't answer any of those questions because I don't know what you're capable of. Another way: Brandon reached out early this year to invite me onto his podcast. This is a great note, giving a brief overview of the topic (sounds like my audience) and establishing credibility by mentioning David Perell (I'm a big fan). So I was in. A few weeks after our podcast episode together, this came through from Brandon: It's abundantly clear that: He knows the brand, he's done his homework, and took some time to prepare this ask. He has tangible suggestions for how to make an impact. He leveraged someone else's experience to sell me on the value he'd bring. (creative) Would hiring Brandon make my life easier? Yes. Did I do it? Yes. You can follow Brandon here . Example 2: I got a cold email from someone I didn't know. The subject line caught my attention, as did the pithy length and no-pressure approach. Gabriel made it incredibly easy – after a click, a notion page with his proposal: He had created a Visualize Value Chrome extension. It's abundantly clear that: He's a fan of the brand, actually consumes the content, and has done his homework. He invested time and effort to actually create the extension before asking. He thought of a clever new, on-brand format to deliver the Visualize Value message. Awesome pitch. Research done. Work done. My next step outlined perfectly: Yes or no. Yes. We announced the launch of this project across all of our channels (~300,000 people), giving Gabriel full credit for the idea and build. You can follow Gabriel here .",
+            "video_url": null
+          },
+          {
+            "id": 118,
+            "title": "What Are You Trying to Prove?",
+            "body": "So, now we have the fundamentals down, let's put everything into action. We've built a hyper-focused worksheet to get you thinking about where to start: Here's a link to some examples . (read first) Here's the link to the document . (to edit and complete on your own, go to file and\"make a copy\") Spend some time with it, fill out a few versions, and start experimenting. Then what? This workshop is designed to get you from zero to one, producing things that other people (and more importantly, you) get a ton of value from. Once you're in that spot - Build Once, Sell Twice is the roadmap for shifting from a being a practitioner to a product builder.",
+            "video_url": null
+          }
+        ]
+      },
+      {
+        "title": "Bonus Materials",
+        "lessons": [
+          {
+            "id": 119,
+            "title": "Daily Manifest",
+            "body": "The Visualize Value Daily Manifest is a simple tool we designed to plan tomorrow today : Developed after years of trial and error, and never finding a method that consistently worked to keep me focused, on track, and growing. It is a distillation of the best of many different habit tracking apps, journal formats, coaches, and time management systems. Everything you need, nothing you don't. Here is an overview of the Daily Manifest: DailyManifest_Overview.pdf Here is the blank Daily Manifest file: Blank_Manifest.pdf Here is an example Daily Manifest filled out: ManifestExample.pdf Here is the high contrast blank Daily Manifest: *DailyManifest_high contrast empty.pdf Here is the high contrast 6 am - 6 pm Daily Manifest: *DailyManifest_high contrast_6am-6pm.pdf Recommendations : Although we’re conditioned to be and think digital-first, we highly encourage and recommend that you print out the DM . Using pen and paper not only commits your tasks and goals to memory better, but it also takes away our biggest distractions bombarding us on screens. An added bonus to using analog DMs is that you have a record of days, weeks, months to reflect back on, track progress, and learn from. However, if you insist on digital-only, please use this version optimized for completing digitally. DailyManifest_Digital_Version.pdf",
+            "video_url": null
+          },
+          {
+            "id": 120,
+            "title": "Knowing your Burn Rate",
+            "body": "A short video on calculating risk & runway.",
+            "video_url": "https://www.youtube.com/embed/fuMl85Zn9VQ"
+          }
+        ]
+      }
+    ]
+  },
+  "the-fundamentals-of-value": {
+    "title": "The Fundamentals of Value",
+    "description": "The building blocks of value creation on the internet.",
+    "free": true,
+    "modules": [
+      {
+        "title": "Builder Mindset",
+        "lessons": [
+          {
+            "id": 121,
+            "title": "10 Life-Changing Ideas",
+            "body": "1. You don't learn anything until you do something. 2. Consistency creates competence. Executing badly is a precursor to getting good. 3. Zoom out. (IP via @behaviorgap ) 4. Most of what we believe accrues unconsciously, audit ruthlessly and often. 5. No one is coming to save you. Figure it out. 6. Failure is feedback. Learn from it and move on. 7. Courage isn't the absence of fear. It's just doing it anyway. 8. Aiming low is a tragic way to think. 9. Invest in your reputation, it pays dividends. 10. Yesterday doesn't exist. Do it now.",
+            "video_url": null
+          },
+          {
+            "id": 122,
+            "title": "Your Attention Budget",
+            "body": "There's just 90 seconds between you and a more action-oriented version of you.",
+            "video_url": "https://www.youtube.com/embed/Tk3JqKu5XaY"
+          },
+          {
+            "id": 123,
+            "title": "The Process vs. The Peak",
+            "body": "When you're climbing a mountain, focus on one step at a time.",
+            "video_url": "https://www.youtube.com/embed/jT5ErzKex30"
+          },
+          {
+            "id": 124,
+            "title": "Don't Depend on the People you Care About",
+            "body": "Just got a message on Instagram that made me want to write this up. Someone reached out to explain that they were having a hard time getting their existing network to respond to their work. This isn’t about quality of work, it’s purely about reframing something it seems a lot of people struggle with: Just because people care about you, doesn’t mean they’ll care about your art, your business, your ideas, or your experiences in trying to build them. Just because you grew up on the same road as somebody or share the same DNA, doesn’t mean you’ll be interested in the same things. Enter: the internet. It doesn’t matter who you’re born from or next to any more. Do the work and let the work find the people. Speaking from personal experience, I’ve been working on @visualizevalue every day for close to a year, and almost everyone I have ever met in person couldn’t care less. I posted a few to my personal Instagram...crickets. Shown a few people in person...blank stares. A year later, over 40,000 people subscribe to it, almost none of whom I know personally, and most of whom live in countries I have never set foot in. TLDR; expecting the people that care about you to care as much about your obscure obsession as you do is lunacy.",
+            "video_url": null
+          },
+          {
+            "id": 125,
+            "title": "Learning ≠ Progress",
+            "body": "Many people think they're separated from their goals by their ability to retain and recall information. Unless your only goal is to win trivia games, you're wrong. \"How do I learn faster/better?\" \"What techniques should I use?\" \"What books should I read on learning?\" My suggestion: don't do any of those things, start a project that forces you to produce something. Without a channel for output, obtaining more information will just make you sluggish. (Digestive metaphor in there somewhere.) If you're obtaining information in the context of a project that creates an output - it suddenly becomes much more useful. If you're reading this, the only barrier to entry for creating original content/product exists in your own head. Now you've read this, it shouldn't. \"Begin with the end in mind.\" I want to help people learn x. I want to help x businesses solve y. I want to help people like me get z. It's OK to be dreadful at it to begin with. (You will be.) It's OK to decide the first thing you tried isn't the thing you want to keep doing forever. (It won't be.) It's OK to admit you don't know everything about everything. (You can't.) Just do something.",
+            "video_url": null
+          },
+          {
+            "id": 126,
+            "title": "The Loop",
+            "body": "The more you execute, the more you fail. The more you fail, the less you care. The less you care, the more you execute. When the stakes are low (which in most cases, they are), fail as often as you can.",
+            "video_url": null
+          },
+          {
+            "id": 127,
+            "title": "Process Beats Mission",
+            "body": "People all want the same things at a biological level. Freedom to spend their time how they want, resources to create comfort for themselves and those they care about. The rest is nuance. Deciding you want to be in the hall of fame is not the same as deciding you’re going to spend every day becoming a better player. The hard part isn’t visualizing the win. The hard part is winning when you don’t love the game.",
+            "video_url": null
+          },
+          {
+            "id": 128,
+            "title": "Two Ways to Earn",
+            "body": "1. Money for time: Do it once, get paid once. Do it again tomorrow. 2. Money for value: Do it once, get paid indefinitely. Make it better tomorrow.",
+            "video_url": null
+          },
+          {
+            "id": 129,
+            "title": "Decentralize Your Income",
+            "body": "Make your money antifragile.",
+            "video_url": "https://www.youtube.com/embed/oHyxlxcPnRw"
+          },
+          {
+            "id": 130,
+            "title": "Know Your Burn Rate",
+            "body": "How to calculate risk and extend your runway. Fire up this Google Sheet and figure it out for your situation: https://docs.google.com/spreadsheets/d/1lMhGvz1YmQcqHDzvf24ELE7ODHikyXoB9JekQ3QaTaA/edit?usp=sharing",
+            "video_url": "https://www.youtube.com/embed/fuMl85Zn9VQ"
+          },
+          {
+            "id": 131,
+            "title": "The Value Gap",
+            "body": "How to identify and create value.",
+            "video_url": "https://www.youtube.com/embed/1f1i3S6v6vQ"
+          }
+        ]
+      },
+      {
+        "title": "Building Systems",
+        "lessons": [
+          {
+            "id": 132,
+            "title": "Breadth vs. Depth",
+            "body": "How to serve at scale. If the embedded video doesn't play, please watch it directly on YouTube here .",
+            "video_url": "https://www.youtube.com/embed/watch"
+          },
+          {
+            "id": 133,
+            "title": "Prove It Once, Sell It Twice",
+            "body": "If you find yourself constantly reinventing the wheel, watch this. If the embedded video doesn't play, please watch it on YouTube here .",
+            "video_url": "https://www.youtube.com/embed/watch"
+          },
+          {
+            "id": 134,
+            "title": "When Should I Productize?",
+            "body": "When do you think would be a good time to begin productizing your business? Currently, we’re just starting out and need to build social proof. So should I focus on productizing or work on getting clients? Here’s how I think about it, and how I experienced it personally: One huge caveat, I had no idea of the concept of “productization” when I started out. I could’ve moved faster with that in mind. There’s still merit to thinking through any client situation with a view to productization. There are hundreds of projects I’ve worked on in the past that could’ve been products, I just couldn’t see it at the time.Here’s an example for you - a site I built for the project we talked about a couple weeks ago on office hours, that could be leveraged into a product, sketched this up to show you how that would work: https://shop.visualizevalue.com/products/landing-page-accelerator This could be further specialized to serve a particular type of business, agencies, financial planners, ghostwriters, whatever. The architecture stays the same but the finishes are a little bit different. This helps so much and that diagram is perfect! thank you for this! If you don’t mind me asking, if you were to start over. Would you still go through that same flow? Skill > Result >Specialize > Productization? I think it’s the only way, so yes, only I’d be able to more quickly identify which skills were more valuable if I had the ambition of building product from the beginning. It’d be like having x-ray goggles on vs. putting it together retroactively. I stumbled into all of this VV stuff via serving a lot of different clients and figuring out the things that resonated consistently, no lightbulb moment per se, just slowly chipping away at the superfluous and building systems to solve the consistent problems you encounter.",
+            "video_url": null
+          },
+          {
+            "id": 135,
+            "title": "80/20 Your Life",
+            "body": "A rough formula for growth: Spend 20% of your day building systems to handle what you do with 80% of your day. With this relationship consistent, your time (and your business) slowly becomes more and more valuable.",
+            "video_url": null
+          },
+          {
+            "id": 136,
+            "title": "Building High Leverage Systems",
+            "body": "A mental framework to apply when you're stuck doing repetitive work. If the embedded video doesn't play, please watch it on YouTube here .",
+            "video_url": "https://www.youtube.com/embed/d8SgIdQfYtk"
+          },
+          {
+            "id": 137,
+            "title": "Example: Service Business Systems",
+            "body": "Build more systems, do less work, generate better results. If the embedded video doesn't play, please watch it on YouTube here . Image from this video: Here is a link to the document: https://www.figma.com/file/4mT5P4eFs2fzhmO77kTKZz/Agency_Systems_Framework?node-id=0%3A1",
+            "video_url": "https://www.youtube.com/embed/qJxaUSmPggA"
+          }
+        ]
+      },
+      {
+        "title": "Positioning &amp; Promotion",
+        "lessons": [
+          {
+            "id": 138,
+            "title": "Don't Build Backwards",
+            "body": "Why almost everyone does the exact opposite of what they should when starting a business. If the embedded video doesn't play, please watch it on YouTube here .",
+            "video_url": "https://www.youtube.com/embed/xMfB_M6OaWU"
+          },
+          {
+            "id": 139,
+            "title": "Developing Empathy &amp; Story",
+            "body": "“We don’t write because we have good ideas. We have good ideas because we write.” — Seth Godin I put this together to help people figure out a few things: What’s your story? Is it worth telling? How should you tell it? Why should people trust you? Why does it matter? You’re probably here as a business owner, entrepreneur, or perhaps just an aspiring recipient of more attention. Regardless, the two forces that drive you (if you’re a human being) are likely as follows: cultural change and commercial gain. And society distributes rewards thusly: The byproduct of solving a problem (cultural change) is financial compensation (commercial gain). Recognizing the nuances of these two forces is a fundamental first step in developing and delivering your story. Cultural change: Small or large, fast or slow, you have a desire to make an impact, to change minds and behaviors, to create opportunities to help other people get what they want. This is the thing that gets you out of bed every morning. Commercial gain: First, everybody has to eat. Second, everybody aspires to make a living (or more than a living) doing what they’re great at. In order to direct our actions and measure our progress, money becomes a yardstick of the impact we deliver. This is the thing that buys you a nicer bed to get out of. Agreed? If so, let’s move on. If not, thanks for reading this far. Now, we’ve recognized that you have a desire to change something, and you’d like to be compensated for delivering that change. So what’s the gap? Couple of things you need: Focus On who you serve, why you serve them, and what you do to solve their specific problem. The discipline to stay the course. Trust The ability to articulate your story in a way that moves your audience to action. The empathy to understand how to effectively communicate to your audience that they can trust you to deliver the change you’re promising. First, let’s talk about the story part. The first thing to remember is: everything is relative. To",
+            "video_url": null
+          },
+          {
+            "id": 140,
+            "title": "World Class Market Creation",
+            "body": "1. Make yourself useful. 2. Make yourself scarce. If the embedded video doesn't play, please watch it on YouTube here .",
+            "video_url": "https://www.youtube.com/embed/1jqaJ88gCu8"
+          },
+          {
+            "id": 141,
+            "title": "Proof of Work &amp; Selling Sawdust",
+            "body": "How you can leverage what you do every day to educate (and eventually sell to) your prospective customers. If the embedded video doesn't play, please watch it on YouTube here .",
+            "video_url": "https://www.youtube.com/embed/watch"
+          },
+          {
+            "id": 142,
+            "title": "You are the Medium",
+            "body": "What most people don't understand about \"content\" marketing: The medium is the message. The chances the information you're sharing is already out there in some shape or form is 99.99999%. People just buy your version of it. You are the medium.",
+            "video_url": null
+          },
+          {
+            "id": 143,
+            "title": "Build Your Trust Profile",
+            "body": "How to accelerate your content production and authority. If the embedded video doesn't play, please watch it on YouTube here . After watching the above video, make a copy of this document and fill out your Trust Profile: https://docs.google.com/spreadsheets/d/18rhG1KIcjcv0R74CYvkcMxUm6EuFdNJr5Dfz-XHFHqk/edit?usp=sharing",
+            "video_url": "https://www.youtube.com/embed/BGH51D5Tm2Q"
+          },
+          {
+            "id": 144,
+            "title": "Building a Web of Content",
+            "body": "Here’s a simple metaphor for thinking about monetizing your online presence. You're building a \"web:\" Blogs Videos Tweets Articles Graphics Podcasts Guest posts Emails All trapping traffic. The center of that web should be a website you own that hosts your ultimate objective; a sale, a download, a conversation, an application. Content compounds. The more you think, write and record, the more opportunity comes your way.",
+            "video_url": null
+          },
+          {
+            "id": 145,
+            "title": "Employing Content Leverage",
+            "body": "Understand how content is a tool to save you time and make you money.",
+            "video_url": "https://www.youtube.com/embed/9f6OZVPlbRA"
+          },
+          {
+            "id": 146,
+            "title": "The Anatomy of the VV Sales Process",
+            "body": "Here's the Homework Assignment we discussed .",
+            "video_url": "https://www.youtube.com/embed/2MGLxCoK_vw"
+          },
+          {
+            "id": 147,
+            "title": "Things That Scale vs. Things That Don't",
+            "body": "This video was recorded in response to a question from a VV community member. If you have a question, please feel free to leave a comment. In case the embedded video doesn't play, here is the link: https://www.youtube.com/watch?time_continue=3&v=rC7UHPvvxnk",
+            "video_url": "https://www.youtube.com/embed/rC7UHPvvxnk"
+          },
+          {
+            "id": 148,
+            "title": "Someone Thinks You're an Idiot",
+            "body": "Watch this to understand why that's not a bad thing.",
+            "video_url": "https://www.youtube.com/embed/PckFVs-VpG4"
+          },
+          {
+            "id": 149,
+            "title": "The Obvious Problem",
+            "body": "Why most content doesn't work.",
+            "video_url": "https://www.youtube.com/embed/4OGGAOKFIVs"
+          },
+          {
+            "id": 150,
+            "title": "Always Be Teaching, Always Be Learning",
+            "body": "Wherever you are in your journey, it's time to start producing.",
+            "video_url": "https://www.youtube.com/embed/watch"
+          }
+        ]
+      },
+      {
+        "title": "Proof of Work",
+        "lessons": [
+          {
+            "id": 151,
+            "title": "The VV Value Ladder",
+            "body": "The three tiers of value. This is an example of leveraging existing assets to create new content. You'll notice there is a call-to-action at the end of this video offering to join the Visualize Value community.",
+            "video_url": "https://www.youtube.com/embed/B2xCecMgrSM"
+          },
+          {
+            "id": 152,
+            "title": "Pitching VV as a Service",
+            "body": "Our consulting pitch, with a \"behind-the-scenes\" voiceover.",
+            "video_url": "https://www.youtube.com/embed/sfmmDBRoqTA"
+          },
+          {
+            "id": 153,
+            "title": "Scaling VV to $3,000/day",
+            "body": "Inspired to write up a short thread after hitting a big milestone with the @visualizevalue business today. $3,000 in sales today (and counting), 100% digital product. It was early 2019 when I discovered the notorious “Get Rich Without Getting Lucky” thread by @naval . I’d been running an agency business for a year already, and despite making decent money, it was annihilating me. No two days the same, no two projects creating any semblance of compounding benefit. Things I had become decent at while selling agency services: brand, design, content, and strategy. Things I’m interested in personally: philosophy, technology, aesthetics, and commerce. “Productize yourself” I recalled, and @visualizevalue was born, a combination of all of the above. Next up was a level of creative constraint that would ensure I’d be building equity (creating recognizable work). A ridiculously simple rule: black canvas, white typography and geometry. For 6 months, I made at least one image every day, most days 3-4. My network grew exponentially, and I got introduced to hundreds of brilliant people, many of which turned into clients and collaborators. 3 more months and I began experimenting with e-commerce - selling prints, books, and a couple of digital products. Behind the digital product purchases, I wanted to find a way to connect people who clearly valued the same ideas, and would benefit from being around people using the same tools, and the VV community was born. This is the real flywheel component, and the inspiration to make the work better and better every day. A network of builders, all committed to helping each other get where they’re going. I’m convinced that a little more transparency goes a long way in helping people realize that they’re not as far away as they think. That’s why I wrote this up. Thank you to everyone who has supported @visualizevalue so far. It quite literally would not be possible without you.",
+            "video_url": null
+          },
+          {
+            "id": 154,
+            "title": "Breaking down a $9,000 VV Promotion",
+            "body": "Selling $9,000 of Digital Product in 3 Days. A video walkthrough of the details of an organic price raise campaign.",
+            "video_url": "https://www.youtube.com/embed/T3SRFtMmYjo"
+          }
+        ]
       }
     ]
   }
