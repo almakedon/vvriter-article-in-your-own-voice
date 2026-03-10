@@ -242,22 +242,26 @@ Flow: vvriter() → user picks a number → vvriter(title, angle, ids) → open 
       const visualsWithText = allVisuals.filter((v) => v.data.text)
       const sampledVisuals = shuffleSample(visualsWithText, Math.min(150, visualsWithText.length))
       const visualList = sampledVisuals
-        .map((v, i) => {
-          const desc = descriptions[v.id]
-          const parts = [`[V${i}] "${v.data.text}"`]
-          if (desc) parts.push(`  Context: ${desc}`)
-          if (v.data.tags.length) parts.push(`  Tags: ${v.data.tags.join(', ')}`)
-          parts.push(`  Image: ${imageUrl(v.data.image)}`)
-          parts.push(`  ID: ${v.id}`)
-          return parts.join('\n')
-        })
+        .map((v, i) => `[V${i}] "${v.data.text}" (id:${v.id})`)
         .join('\n')
+
+      const voiceSummary = [
+        `## Voice (condensed)`,
+        `Direct. Declarative. No hedging. Every word earns its place. Talks to "you" not "I." Punctuation is structural, not emotional. 57% of tweets under 10 words.`,
+        ``,
+        `**Structures:** Parallel declarations ("Good marketing finds customers. Great marketing creates customers."), reframes, paradoxes, conditional reveals, chiasmus, circular loops, negation flips.`,
+        ``,
+        `**Devices:** Alliterative contrasts (default/design, labor/leverage), matched meter, internal rhyme, monosyllabic endings, colon as pivot, drop the period, land on a noun.`,
+        ``,
+        `**Themes:** Leverage (build once sell twice), simplicity over complexity, action over theory, consistency and compounding, ownership over renting, time as non-renewable, focus narrows to expand.`,
+        ``,
+        `**Never:** Self-reference, diary, engagement farming, performed vulnerability, cliches, hedging, em dashes, jargon, news, pop culture. The voice reads as observations about reality, not opinions from a personality.`,
+      ].join('\n')
 
       const parts = [
         `# Raw Material`,
         '',
-        `## Voice`,
-        profile,
+        voiceSummary,
         '',
         `## Tweets — ${candidateTweets.length} samples`,
         tweetList,
